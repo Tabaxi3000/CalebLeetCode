@@ -1,30 +1,31 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-        dp = [[0 for _ in range(len(s))] for _ in range(len(s))]
-        maxLength, result = 1, ""
-        for index in range(len(s)):
-        	dp[index][index] = 1
-        	result = s[index]
+        s_prime = "#" + "#".join(s) + "#"
+        n = len(s_prime)
+        palindrome_radii = [0] * n
+        center = radius = 0
 
-        length = 2
-        
-        while length <= len(s):
-        	index_i = 0
-        	while index_i < len(s) - length + 1:
-        		index_j = index_i + length -1
+        for i in range(n):
+            mirror = 2 * center - i
 
-        		if length == 2 and s[index_i] == s[index_j]:
-        			dp[index_i][index_j] = 1
-        			maxLength = max(maxLength, 2)
-        			result = s[index_i:index_j+1]
-        		elif s[index_i] == s[index_j] and dp[index_i+1][index_j-1]:
-        			dp[index_i][index_j] = 1
-        			if length > maxLength:
-        				maxLength = length
-        				result = s[index_i:index_j+1]
+            if i < radius:
+                palindrome_radii[i] = min(radius - i, palindrome_radii[mirror])
 
-        		index_i += 1
-        	length += 1
+            while (
+                i + 1 + palindrome_radii[i] < n
+                and i - 1 - palindrome_radii[i] >= 0
+                and s_prime[i + 1 + palindrome_radii[i]]
+                == s_prime[i - 1 - palindrome_radii[i]]
+            ):
+                palindrome_radii[i] += 1
 
-        return result
-        
+            if i + palindrome_radii[i] > radius:
+                center = i
+                radius = i + palindrome_radii[i]
+
+        max_length = max(palindrome_radii)
+        center_index = palindrome_radii.index(max_length)
+        start_index = (center_index - max_length) // 2
+        longest_palindrome = s[start_index : start_index + max_length]
+
+        return longest_palindrome
