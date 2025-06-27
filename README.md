@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0015-3sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -34,8 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
