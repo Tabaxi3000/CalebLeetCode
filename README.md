@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0157-read-n-characters-given-read4](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0157-read-n-characters-given-read4) |
+| [0158-read-n-characters-given-read4-ii-call-multiple-times](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0158-read-n-characters-given-read4-ii-call-multiple-times) |
 ## Greedy
 |  |
 | ------- |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0068-text-justification) |
 | [0157-read-n-characters-given-read4](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0157-read-n-characters-given-read4) |
+| [0158-read-n-characters-given-read4-ii-call-multiple-times](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0158-read-n-characters-given-read4-ii-call-multiple-times) |
 ## Combinatorics
 |  |
 | ------- |
@@ -547,4 +549,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0157-read-n-characters-given-read4](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0157-read-n-characters-given-read4) |
+| [0158-read-n-characters-given-read4-ii-call-multiple-times](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0158-read-n-characters-given-read4-ii-call-multiple-times) |
 <!---LeetCode Topics End-->
