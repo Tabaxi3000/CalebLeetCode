@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0157-read-n-characters-given-read4](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0157-read-n-characters-given-read4) |
 | [0158-read-n-characters-given-read4-ii-call-multiple-times](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0158-read-n-characters-given-read4-ii-call-multiple-times) |
+| [0162-find-peak-element](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0162-find-peak-element) |
 ## Greedy
 |  |
 | ------- |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0162-find-peak-element) |
 ## Divide and Conquer
 |  |
 | ------- |
