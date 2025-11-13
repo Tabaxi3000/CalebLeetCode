@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0163-missing-ranges](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0163-missing-ranges) |
 | [0164-maximum-gap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -581,4 +585,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0164-maximum-gap) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
