@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0169-majority-element) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0170-two-sum-iii-data-structure-design) |
+| [0187-repeated-dna-sequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0187-repeated-dna-sequences) |
 ## String
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0179-largest-number) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0186-reverse-words-in-a-string-ii) |
+| [0187-repeated-dna-sequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0187-repeated-dna-sequences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0076-minimum-window-substring) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
+| [0187-repeated-dna-sequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0187-repeated-dna-sequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0187-repeated-dna-sequences) |
 ## Matrix
 |  |
 | ------- |
@@ -631,4 +635,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0185-department-top-three-salaries) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
