@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0169-majority-element) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0170-two-sum-iii-data-structure-design) |
 ## String
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0161-one-edit-distance](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0161-one-edit-distance) |
 | [0165-compare-version-numbers](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0170-two-sum-iii-data-structure-design) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0169-majority-element) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0170-two-sum-iii-data-structure-design) |
 ## Greedy
 |  |
 | ------- |
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0155-min-stack) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0170-two-sum-iii-data-structure-design) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -589,4 +593,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0169-majority-element) |
+## Data Stream
+|  |
+| ------- |
+| [0170-two-sum-iii-data-structure-design](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0170-two-sum-iii-data-structure-design) |
 <!---LeetCode Topics End-->
