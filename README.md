@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0186-reverse-words-in-a-string-ii) |
+| [0189-rotate-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0189-rotate-array) |
 ## Trie
 |  |
 | ------- |
