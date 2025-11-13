@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0173-binary-search-tree-iterator) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0156-binary-tree-upside-down](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0156-binary-tree-upside-down) |
+| [0173-binary-search-tree-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Tree
 |  |
 | ------- |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0156-binary-tree-upside-down](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0156-binary-tree-upside-down) |
+| [0173-binary-search-tree-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0173-binary-search-tree-iterator) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -571,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0155-min-stack) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0170-two-sum-iii-data-structure-design) |
+| [0173-binary-search-tree-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0173-binary-search-tree-iterator) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -600,4 +605,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0170-two-sum-iii-data-structure-design](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0170-two-sum-iii-data-structure-design) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
