@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0149-max-points-on-a-line) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Stack
 |  |
 | ------- |
