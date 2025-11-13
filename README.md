@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0157-read-n-characters-given-read4](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0157-read-n-characters-given-read4) |
 ## Greedy
 |  |
 | ------- |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0068-text-justification) |
+| [0157-read-n-characters-given-read4](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0157-read-n-characters-given-read4) |
 ## Combinatorics
 |  |
 | ------- |
@@ -541,4 +543,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0149-max-points-on-a-line) |
+## Interactive
+|  |
+| ------- |
+| [0157-read-n-characters-given-read4](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0157-read-n-characters-given-read4) |
 <!---LeetCode Topics End-->
