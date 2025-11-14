@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0218-the-skyline-problem) |
+| [0219-contains-duplicate-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Greedy
 |  |
 | ------- |
