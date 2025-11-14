@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0244-shortest-word-distance-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0244-shortest-word-distance-ii) |
 | [0245-shortest-word-distance-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0245-shortest-word-distance-iii) |
 | [0246-strobogrammatic-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0246-strobogrammatic-number) |
+| [0247-strobogrammatic-number-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0247-strobogrammatic-number-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0247-strobogrammatic-number-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0247-strobogrammatic-number-ii) |
 ## Array
 |  |
 | ------- |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0243-shortest-word-distance](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0243-shortest-word-distance) |
 | [0244-shortest-word-distance-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0244-shortest-word-distance-ii) |
 | [0245-shortest-word-distance-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0245-shortest-word-distance-iii) |
+| [0247-strobogrammatic-number-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0247-strobogrammatic-number-ii) |
 ## Greedy
 |  |
 | ------- |
