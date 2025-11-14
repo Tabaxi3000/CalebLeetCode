@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0242-valid-anagram) |
+| [0243-shortest-word-distance](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0243-shortest-word-distance) |
 ## Sliding Window
 |  |
 | ------- |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0243-shortest-word-distance](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0243-shortest-word-distance) |
 ## Greedy
 |  |
 | ------- |
