@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0169-majority-element) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0187-repeated-dna-sequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0170-two-sum-iii-data-structure-design](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0186-reverse-words-in-a-string-ii) |
 | [0189-rotate-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0202-happy-number) |
 ## Trie
 |  |
 | ------- |
