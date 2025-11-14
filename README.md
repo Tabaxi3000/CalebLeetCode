@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0242-valid-anagram) |
 | [0243-shortest-word-distance](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0243-shortest-word-distance) |
 | [0244-shortest-word-distance-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0244-shortest-word-distance-ii) |
+| [0245-shortest-word-distance-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0245-shortest-word-distance-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0243-shortest-word-distance](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0243-shortest-word-distance) |
 | [0244-shortest-word-distance-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0244-shortest-word-distance-ii) |
+| [0245-shortest-word-distance-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0245-shortest-word-distance-iii) |
 ## Greedy
 |  |
 | ------- |
