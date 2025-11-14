@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0214-shortest-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0214-shortest-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -684,10 +686,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0214-shortest-palindrome) |
 ## Enumeration
 |  |
 | ------- |
