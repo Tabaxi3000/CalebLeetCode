@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0204-count-primes) |
 ## Greedy
 |  |
 | ------- |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0204-count-primes) |
 ## Trie
 |  |
 | ------- |
@@ -658,4 +660,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0187-repeated-dna-sequences) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
