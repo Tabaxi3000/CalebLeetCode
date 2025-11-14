@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0170-two-sum-iii-data-structure-design](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0187-repeated-dna-sequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0179-largest-number) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0186-reverse-words-in-a-string-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0205-isomorphic-strings) |
 ## Sliding Window
 |  |
 | ------- |
