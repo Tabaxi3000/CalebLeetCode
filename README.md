@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0208-implement-trie-prefix-tree) |
 ## String
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0186-reverse-words-in-a-string-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0186-reverse-words-in-a-string-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0208-implement-trie-prefix-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0140-word-break-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0208-implement-trie-prefix-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0155-min-stack) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0173-binary-search-tree-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0208-implement-trie-prefix-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0208-implement-trie-prefix-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
