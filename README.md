@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0221-maximal-square) |
 ## Recursion
 |  |
 | ------- |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0220-contains-duplicate-iii) |
+| [0221-maximal-square](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0221-maximal-square) |
 ## Greedy
 |  |
 | ------- |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0221-maximal-square) |
 ## Monotonic Stack
 |  |
 | ------- |
