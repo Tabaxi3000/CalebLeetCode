@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0222-count-complete-tree-nodes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Matrix
 |  |
 | ------- |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0156-binary-tree-upside-down](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0156-binary-tree-upside-down) |
 | [0173-binary-search-tree-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0156-binary-tree-upside-down](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0156-binary-tree-upside-down) |
 | [0173-binary-search-tree-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
