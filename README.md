@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0377-combination-sum-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0396-rotate-function) |
 ## Recursion
 |  |
 | ------- |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0391-perfect-rectangle) |
 | [0393-utf-8-validation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0393-utf-8-validation) |
+| [0396-rotate-function](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0396-rotate-function) |
 ## Greedy
 |  |
 | ------- |
@@ -674,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0391-perfect-rectangle) |
+| [0396-rotate-function](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0396-rotate-function) |
 ## Trie
 |  |
 | ------- |
