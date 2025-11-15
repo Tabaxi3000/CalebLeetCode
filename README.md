@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0336-palindrome-pairs) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0344-reverse-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0321-create-maximum-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
