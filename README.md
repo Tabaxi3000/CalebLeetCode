@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0273-integer-to-english-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0335-self-crossing) |
+| [0342-power-of-four](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0342-power-of-four) |
 ## Trie
 |  |
 | ------- |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0320-generalized-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0320-generalized-abbreviation) |
 | [0338-counting-bits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0342-power-of-four) |
 ## Matrix
 |  |
 | ------- |
