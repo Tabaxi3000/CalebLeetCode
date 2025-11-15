@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0259-3sum-smaller](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0259-3sum-smaller) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0277-find-the-celebrity](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0277-find-the-celebrity) |
+| [0283-move-zeroes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0274-h-index) |
 | [0280-wiggle-sort](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0280-wiggle-sort) |
 | [0281-zigzag-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0281-zigzag-iterator) |
+| [0283-move-zeroes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
