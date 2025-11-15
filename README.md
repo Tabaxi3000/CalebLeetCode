@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0256-paint-house](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0256-paint-house) |
 | [0259-3sum-smaller](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0259-3sum-smaller) |
+| [0260-single-number-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0260-single-number-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0260-single-number-iii) |
 ## Matrix
 |  |
 | ------- |
