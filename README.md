@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0336-palindrome-pairs) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0347-top-k-frequent-elements](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0348-design-tic-tac-toe](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0348-design-tic-tac-toe) |
 ## String
 |  |
 | ------- |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0336-palindrome-pairs) |
 | [0346-moving-average-from-data-stream](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0348-design-tic-tac-toe](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0348-design-tic-tac-toe) |
 ## Greedy
 |  |
 | ------- |
@@ -758,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0311-sparse-matrix-multiplication](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0311-sparse-matrix-multiplication) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0348-design-tic-tac-toe](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0348-design-tic-tac-toe) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -778,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0157-read-n-characters-given-read4](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0157-read-n-characters-given-read4) |
 | [0158-read-n-characters-given-read4-ii-call-multiple-times](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0158-read-n-characters-given-read4-ii-call-multiple-times) |
 | [0289-game-of-life](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0289-game-of-life) |
+| [0348-design-tic-tac-toe](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0348-design-tic-tac-toe) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1030,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0308-range-sum-query-2d-mutable](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0308-range-sum-query-2d-mutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0346-moving-average-from-data-stream](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0346-moving-average-from-data-stream) |
+| [0348-design-tic-tac-toe](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0348-design-tic-tac-toe) |
 ## Doubly-Linked List
 |  |
 | ------- |
