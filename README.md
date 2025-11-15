@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0305-number-of-islands-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0305-number-of-islands-ii) |
 | [0311-sparse-matrix-multiplication](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0311-sparse-matrix-multiplication) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0324-wiggle-sort-ii) |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 ## Greedy
 |  |
 | ------- |
@@ -1052,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 ## Quickselect
 |  |
 | ------- |
