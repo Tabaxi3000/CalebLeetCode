@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0273-integer-to-english-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0282-expression-add-operators) |
 ## Sliding Window
 |  |
 | ------- |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0279-perfect-squares) |
+| [0282-expression-add-operators](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0282-expression-add-operators) |
 ## Trie
 |  |
 | ------- |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0254-factor-combinations](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0254-factor-combinations) |
 | [0257-binary-tree-paths](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0257-binary-tree-paths) |
 | [0267-palindrome-permutation-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0267-palindrome-permutation-ii) |
+| [0282-expression-add-operators](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0282-expression-add-operators) |
 ## Linked List
 |  |
 | ------- |
