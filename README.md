@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0399-evaluate-division](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0399-evaluate-division) |
 ## Sliding Window
 |  |
 | ------- |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0391-perfect-rectangle) |
 | [0393-utf-8-validation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0393-utf-8-validation) |
 | [0396-rotate-function](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0396-rotate-function) |
+| [0399-evaluate-division](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0399-evaluate-division) |
 ## Greedy
 |  |
 | ------- |
@@ -964,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0366-find-leaves-of-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0385-mini-parser](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0386-lexicographical-numbers) |
+| [0399-evaluate-division](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0399-evaluate-division) |
 ## Tree
 |  |
 | ------- |
@@ -1112,6 +1115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0339-nested-list-weight-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0339-nested-list-weight-sum) |
 | [0364-nested-list-weight-sum-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0364-nested-list-weight-sum-ii) |
 | [0365-water-and-jug-problem](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0365-water-and-jug-problem) |
+| [0399-evaluate-division](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0399-evaluate-division) |
 ## Union Find
 |  |
 | ------- |
@@ -1121,6 +1125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0305-number-of-islands-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0305-number-of-islands-ii) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0399-evaluate-division](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0399-evaluate-division) |
 ## Graph
 |  |
 | ------- |
@@ -1134,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0399-evaluate-division) |
 ## Design
 |  |
 | ------- |
@@ -1363,4 +1369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0382-linked-list-random-node) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
