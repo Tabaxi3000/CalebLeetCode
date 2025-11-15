@@ -575,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0372-super-pow) |
 ## Math
 |  |
 | ------- |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0368-largest-divisible-subset) |
 | [0369-plus-one-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0369-plus-one-linked-list) |
 | [0371-sum-of-two-integers](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0372-super-pow) |
 ## Trie
 |  |
 | ------- |
