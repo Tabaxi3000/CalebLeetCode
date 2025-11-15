@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0305-number-of-islands-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0305-number-of-islands-ii) |
+| [0307-range-sum-query-mutable](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0307-range-sum-query-mutable) |
 ## Greedy
 |  |
 | ------- |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0307-range-sum-query-mutable](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0307-range-sum-query-mutable) |
 ## Math
 |  |
 | ------- |
@@ -903,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0307-range-sum-query-mutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1000,10 +1003,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0307-range-sum-query-mutable) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0307-range-sum-query-mutable) |
 ## Line Sweep
 |  |
 | ------- |
