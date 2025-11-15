@@ -548,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0362-design-hit-counter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0362-design-hit-counter) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0367-valid-perfect-square](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0360-sort-transformed-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0360-sort-transformed-array) |
 | [0365-water-and-jug-problem](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0365-water-and-jug-problem) |
+| [0367-valid-perfect-square](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0367-valid-perfect-square) |
 ## Trie
 |  |
 | ------- |
