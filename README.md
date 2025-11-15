@@ -468,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0368-largest-divisible-subset) |
 | [0370-range-addition](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0370-range-addition) |
 | [0377-combination-sum-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0377-combination-sum-iv) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0358-rearrange-string-k-distance-apart](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0360-sort-transformed-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0360-sort-transformed-array) |
 | [0368-largest-divisible-subset](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0367-valid-perfect-square](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -757,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0355-design-twitter) |
 | [0358-rearrange-string-k-distance-apart](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Merge Sort
 |  |
 | ------- |
@@ -825,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0348-design-tic-tac-toe](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0348-design-tic-tac-toe) |
 | [0361-bomb-enemy](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0361-bomb-enemy) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
