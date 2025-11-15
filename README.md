@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0282-expression-add-operators) |
+| [0292-nim-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0292-nim-game) |
 ## Trie
 |  |
 | ------- |
@@ -978,4 +979,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0274-h-index) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
