@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0391-perfect-rectangle) |
+| [0393-utf-8-validation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0393-utf-8-validation) |
 ## Greedy
 |  |
 | ------- |
@@ -831,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0351-android-unlock-patterns](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0351-android-unlock-patterns) |
 | [0371-sum-of-two-integers](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0389-find-the-difference) |
+| [0393-utf-8-validation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0393-utf-8-validation) |
 ## Matrix
 |  |
 | ------- |
