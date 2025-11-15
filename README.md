@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0247-strobogrammatic-number-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0247-strobogrammatic-number-ii) |
 | [0248-strobogrammatic-number-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0248-strobogrammatic-number-iii) |
 | [0249-group-shifted-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0249-group-shifted-strings) |
+| [0257-binary-tree-paths](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0257-binary-tree-paths) |
 ## Sliding Window
 |  |
 | ------- |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0216-combination-sum-iii) |
 | [0254-factor-combinations](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0254-factor-combinations) |
+| [0257-binary-tree-paths](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0257-binary-tree-paths) |
 ## Linked List
 |  |
 | ------- |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0250-count-univalue-subtrees](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0250-count-univalue-subtrees) |
+| [0257-binary-tree-paths](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
 | ------- |
@@ -669,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0250-count-univalue-subtrees](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0250-count-univalue-subtrees) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -706,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0250-count-univalue-subtrees](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0250-count-univalue-subtrees) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
