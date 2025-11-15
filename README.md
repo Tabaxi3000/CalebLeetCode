@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0263-ugly-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0263-ugly-number) |
 ## Trie
 |  |
 | ------- |
