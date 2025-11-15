@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0321-create-maximum-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0322-coin-change) |
+| [0324-wiggle-sort-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0324-wiggle-sort-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0280-wiggle-sort](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0280-wiggle-sort) |
 | [0316-remove-duplicate-letters](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0321-create-maximum-number) |
+| [0324-wiggle-sort-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0324-wiggle-sort-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0296-best-meeting-point](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0296-best-meeting-point) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0324-wiggle-sort-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0324-wiggle-sort-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0324-wiggle-sort-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0324-wiggle-sort-ii) |
 ## Math
 |  |
 | ------- |
@@ -1052,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0324-wiggle-sort-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0324-wiggle-sort-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
