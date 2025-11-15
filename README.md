@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0289-game-of-life) |
 | [0296-best-meeting-point](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0296-best-meeting-point) |
 | [0300-longest-increasing-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 ## Greedy
 |  |
 | ------- |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0289-game-of-life) |
 | [0296-best-meeting-point](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0296-best-meeting-point) |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -728,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0285-inorder-successor-in-bst](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0285-inorder-successor-in-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 ## Tree
 |  |
 | ------- |
@@ -854,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0301-remove-invalid-parentheses) |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 ## Union Find
 |  |
 | ------- |
