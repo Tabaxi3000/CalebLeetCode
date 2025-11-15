@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0356-line-reflection](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0356-line-reflection) |
 | [0360-sort-transformed-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0360-sort-transformed-array) |
 | [0361-bomb-enemy](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0361-bomb-enemy) |
+| [0362-design-hit-counter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0362-design-hit-counter) |
 ## Greedy
 |  |
 | ------- |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0362-design-hit-counter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0362-design-hit-counter) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1080,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0353-design-snake-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0353-design-snake-game) |
 | [0355-design-twitter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0355-design-twitter) |
 | [0359-logger-rate-limiter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0359-logger-rate-limiter) |
+| [0362-design-hit-counter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0362-design-hit-counter) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1123,6 +1126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0346-moving-average-from-data-stream](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0359-logger-rate-limiter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0359-logger-rate-limiter) |
+| [0362-design-hit-counter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0362-design-hit-counter) |
 ## Iterator
 |  |
 | ------- |
@@ -1224,6 +1228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0346-moving-average-from-data-stream](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0353-design-snake-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0353-design-snake-game) |
+| [0362-design-hit-counter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0362-design-hit-counter) |
 ## Monotonic Queue
 |  |
 | ------- |
