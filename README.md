@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0343-integer-break) |
 | [0351-android-unlock-patterns](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0351-android-unlock-patterns) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0361-bomb-enemy](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0361-bomb-enemy) |
 ## Recursion
 |  |
 | ------- |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0353-design-snake-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0353-design-snake-game) |
 | [0356-line-reflection](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0356-line-reflection) |
 | [0360-sort-transformed-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0360-sort-transformed-array) |
+| [0361-bomb-enemy](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0361-bomb-enemy) |
 ## Greedy
 |  |
 | ------- |
@@ -797,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0317-shortest-distance-from-all-buildings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0348-design-tic-tac-toe](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0348-design-tic-tac-toe) |
+| [0361-bomb-enemy](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0361-bomb-enemy) |
 ## Monotonic Stack
 |  |
 | ------- |
