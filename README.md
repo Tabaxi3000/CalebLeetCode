@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0256-paint-house](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0256-paint-house) |
 ## Recursion
 |  |
 | ------- |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0251-flatten-2d-vector](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0251-flatten-2d-vector) |
 | [0253-meeting-rooms-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
+| [0256-paint-house](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0256-paint-house) |
 ## Greedy
 |  |
 | ------- |
