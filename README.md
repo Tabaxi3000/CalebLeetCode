@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0385-mini-parser](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0360-sort-transformed-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0360-sort-transformed-array) |
+| [0392-is-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0377-combination-sum-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0392-is-subsequence) |
 ## Recursion
 |  |
 | ------- |
