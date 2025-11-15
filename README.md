@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0343-integer-break) |
+| [0351-android-unlock-patterns](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0351-android-unlock-patterns) |
 ## Recursion
 |  |
 | ------- |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0306-additive-number) |
 | [0320-generalized-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0320-generalized-abbreviation) |
+| [0351-android-unlock-patterns](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0351-android-unlock-patterns) |
 ## Linked List
 |  |
 | ------- |
@@ -743,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0320-generalized-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0320-generalized-abbreviation) |
 | [0338-counting-bits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0342-power-of-four) |
+| [0351-android-unlock-patterns](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0351-android-unlock-patterns) |
 ## Matrix
 |  |
 | ------- |
@@ -1206,4 +1209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0332-reconstruct-itinerary) |
+## Bitmask
+|  |
+| ------- |
+| [0351-android-unlock-patterns](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0351-android-unlock-patterns) |
 <!---LeetCode Topics End-->
