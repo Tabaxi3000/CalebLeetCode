@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0396-rotate-function) |
+| [0397-integer-replacement](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0397-integer-replacement) |
 ## Recursion
 |  |
 | ------- |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0358-rearrange-string-k-distance-apart](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
+| [0397-integer-replacement](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0397-integer-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -840,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0393-utf-8-validation) |
+| [0397-integer-replacement](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0397-integer-replacement) |
 ## Matrix
 |  |
 | ------- |
@@ -906,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0294-flip-game-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0294-flip-game-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0397-integer-replacement](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0397-integer-replacement) |
 ## Depth-First Search
 |  |
 | ------- |
