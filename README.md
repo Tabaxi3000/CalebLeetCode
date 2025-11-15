@@ -781,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0310-minimum-height-trees](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0310-minimum-height-trees) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 ## Tree
 |  |
 | ------- |
@@ -914,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0322-coin-change](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0322-coin-change) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 ## Union Find
 |  |
 | ------- |
@@ -921,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0130-surrounded-regions) |
 | [0261-graph-valid-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0261-graph-valid-tree) |
 | [0305-number-of-islands-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0305-number-of-islands-ii) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 ## Graph
 |  |
 | ------- |
@@ -931,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0269-alien-dictionary) |
 | [0277-find-the-celebrity](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0277-find-the-celebrity) |
 | [0310-minimum-height-trees](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0310-minimum-height-trees) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 ## Design
 |  |
 | ------- |
