@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0246-strobogrammatic-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0246-strobogrammatic-number) |
 | [0249-group-shifted-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0249-group-shifted-strings) |
 | [0264-ugly-number-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0264-ugly-number-ii) |
+| [0266-palindrome-permutation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0266-palindrome-permutation) |
 ## String
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0248-strobogrammatic-number-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0248-strobogrammatic-number-iii) |
 | [0249-group-shifted-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0249-group-shifted-strings) |
 | [0257-binary-tree-paths](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0257-binary-tree-paths) |
+| [0266-palindrome-permutation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0266-palindrome-permutation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0260-single-number-iii) |
+| [0266-palindrome-permutation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0266-palindrome-permutation) |
 ## Matrix
 |  |
 | ------- |
