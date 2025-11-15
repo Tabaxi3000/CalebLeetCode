@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0257-binary-tree-paths) |
 | [0266-palindrome-permutation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0266-palindrome-permutation) |
 | [0267-palindrome-permutation-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0267-palindrome-permutation-ii) |
+| [0269-alien-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0269-alien-dictionary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0260-single-number-iii) |
 | [0265-paint-house-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0265-paint-house-ii) |
 | [0268-missing-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0268-missing-number) |
+| [0269-alien-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0269-alien-dictionary) |
 ## Greedy
 |  |
 | ------- |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0250-count-univalue-subtrees](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0250-count-univalue-subtrees) |
 | [0257-binary-tree-paths](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0257-binary-tree-paths) |
 | [0261-graph-valid-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0269-alien-dictionary) |
 ## Tree
 |  |
 | ------- |
@@ -770,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0226-invert-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0269-alien-dictionary) |
 ## Union Find
 |  |
 | ------- |
@@ -783,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0269-alien-dictionary) |
 ## Design
 |  |
 | ------- |
@@ -870,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0210-course-schedule-ii) |
+| [0269-alien-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0269-alien-dictionary) |
 ## Prefix Sum
 |  |
 | ------- |
