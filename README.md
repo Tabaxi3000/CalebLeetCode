@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0244-shortest-word-distance-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0244-shortest-word-distance-ii) |
 | [0246-strobogrammatic-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0246-strobogrammatic-number) |
 | [0249-group-shifted-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0249-group-shifted-strings) |
+| [0264-ugly-number-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0264-ugly-number-ii) |
 ## String
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0256-paint-house](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0256-paint-house) |
+| [0264-ugly-number-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0264-ugly-number-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0264-ugly-number-ii) |
 ## Trie
 |  |
 | ------- |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0253-meeting-rooms-ii) |
+| [0264-ugly-number-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0264-ugly-number-ii) |
 ## Merge Sort
 |  |
 | ------- |
