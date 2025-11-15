@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0268-missing-number) |
 | [0288-unique-word-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0288-unique-word-abbreviation) |
 | [0290-word-pattern](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0299-bulls-and-cows) |
 ## String
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0290-word-pattern) |
 | [0293-flip-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0293-flip-game) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0299-bulls-and-cows](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0299-bulls-and-cows) |
 ## Sliding Window
 |  |
 | ------- |
@@ -910,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0299-bulls-and-cows) |
 ## Data Stream
 |  |
 | ------- |
