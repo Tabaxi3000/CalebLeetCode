@@ -641,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0250-count-univalue-subtrees](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0250-count-univalue-subtrees) |
 | [0257-binary-tree-paths](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0257-binary-tree-paths) |
+| [0261-graph-valid-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0261-graph-valid-tree) |
 ## Tree
 |  |
 | ------- |
@@ -749,17 +750,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0226-invert-binary-tree) |
+| [0261-graph-valid-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0261-graph-valid-tree) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0130-surrounded-regions) |
+| [0261-graph-valid-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0261-graph-valid-tree) |
 ## Graph
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0210-course-schedule-ii) |
+| [0261-graph-valid-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0261-graph-valid-tree) |
 ## Design
 |  |
 | ------- |
