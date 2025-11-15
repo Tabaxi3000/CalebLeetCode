@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0333-largest-bst-subtree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0333-largest-bst-subtree) |
 | [0337-house-robber-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0343-integer-break) |
 ## Recursion
 |  |
 | ------- |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0343-integer-break) |
 ## Trie
 |  |
 | ------- |
