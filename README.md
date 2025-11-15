@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0313-super-ugly-number) |
 ## Recursion
 |  |
 | ------- |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0311-sparse-matrix-multiplication](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0311-sparse-matrix-multiplication) |
 | [0312-burst-balloons](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0313-super-ugly-number) |
 ## Greedy
 |  |
 | ------- |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0292-nim-game) |
 | [0294-flip-game-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0294-flip-game-ii) |
 | [0296-best-meeting-point](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0296-best-meeting-point) |
+| [0313-super-ugly-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0313-super-ugly-number) |
 ## Trie
 |  |
 | ------- |
