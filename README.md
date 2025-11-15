@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0355-design-twitter) |
 | [0356-line-reflection](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0356-line-reflection) |
 | [0358-rearrange-string-k-distance-apart](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
+| [0359-logger-rate-limiter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0359-logger-rate-limiter) |
 ## String
 |  |
 | ------- |
@@ -1071,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0353-design-snake-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0353-design-snake-game) |
 | [0355-design-twitter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0355-design-twitter) |
+| [0359-logger-rate-limiter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0359-logger-rate-limiter) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1113,6 +1115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0346-moving-average-from-data-stream](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0359-logger-rate-limiter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0359-logger-rate-limiter) |
 ## Iterator
 |  |
 | ------- |
