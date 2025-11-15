@@ -666,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0336-palindrome-pairs) |
+| [0386-lexicographical-numbers](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0386-lexicographical-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -935,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0365-water-and-jug-problem) |
 | [0366-find-leaves-of-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0385-mini-parser](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0385-mini-parser) |
+| [0386-lexicographical-numbers](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0386-lexicographical-numbers) |
 ## Tree
 |  |
 | ------- |
