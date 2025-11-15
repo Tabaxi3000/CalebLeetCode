@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0264-ugly-number-ii) |
 | [0265-paint-house-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0265-paint-house-ii) |
 | [0276-paint-fence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0276-paint-fence) |
+| [0279-perfect-squares](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0279-perfect-squares) |
 ## Recursion
 |  |
 | ------- |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0279-perfect-squares) |
 ## Trie
 |  |
 | ------- |
@@ -796,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0226-invert-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0269-alien-dictionary) |
+| [0279-perfect-squares](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0279-perfect-squares) |
 ## Union Find
 |  |
 | ------- |
