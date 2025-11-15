@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0320-generalized-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0320-generalized-abbreviation) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -653,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0272-closest-binary-search-tree-value-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0321-create-maximum-number) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -846,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -890,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
