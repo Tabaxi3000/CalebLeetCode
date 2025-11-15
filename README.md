@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0256-paint-house](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0256-paint-house) |
 | [0264-ugly-number-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0264-ugly-number-ii) |
 | [0265-paint-house-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0265-paint-house-ii) |
+| [0276-paint-fence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0276-paint-fence) |
 ## Recursion
 |  |
 | ------- |
