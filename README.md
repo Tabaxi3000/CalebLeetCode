@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0248-strobogrammatic-number-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0248-strobogrammatic-number-iii) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0273-integer-to-english-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0326-power-of-three) |
 ## Array
 |  |
 | ------- |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0296-best-meeting-point](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0296-best-meeting-point) |
 | [0313-super-ugly-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0319-bulb-switcher) |
+| [0326-power-of-three](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0326-power-of-three) |
 ## Trie
 |  |
 | ------- |
