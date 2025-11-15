@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0246-strobogrammatic-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0246-strobogrammatic-number) |
 | [0251-flatten-2d-vector](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0251-flatten-2d-vector) |
 | [0253-meeting-rooms-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0253-meeting-rooms-ii) |
+| [0259-3sum-smaller](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0259-3sum-smaller) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0256-paint-house](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0256-paint-house) |
+| [0259-3sum-smaller](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0259-3sum-smaller) |
 ## Greedy
 |  |
 | ------- |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0242-valid-anagram) |
 | [0253-meeting-rooms-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0253-meeting-rooms-ii) |
+| [0259-3sum-smaller](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0259-3sum-smaller) |
 ## Binary Search
 |  |
 | ------- |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0259-3sum-smaller](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0259-3sum-smaller) |
 ## Divide and Conquer
 |  |
 | ------- |
