@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0288-unique-word-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0288-unique-word-abbreviation) |
 | [0290-word-pattern](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0299-bulls-and-cows) |
+| [0305-number-of-islands-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0305-number-of-islands-ii) |
 ## String
 |  |
 | ------- |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0303-range-sum-query-immutable](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0305-number-of-islands-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0305-number-of-islands-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -868,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0130-surrounded-regions) |
 | [0261-graph-valid-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0261-graph-valid-tree) |
+| [0305-number-of-islands-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0305-number-of-islands-ii) |
 ## Graph
 |  |
 | ------- |
