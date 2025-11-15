@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0272-closest-binary-search-tree-value-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0277-find-the-celebrity](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0277-find-the-celebrity) |
 | [0283-move-zeroes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0281-zigzag-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0281-zigzag-iterator) |
 | [0283-move-zeroes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0284-peeking-iterator) |
+| [0287-find-the-duplicate-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0268-missing-number) |
 | [0270-closest-binary-search-tree-value](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0270-closest-binary-search-tree-value) |
 | [0278-first-bad-version](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -609,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0260-single-number-iii) |
 | [0266-palindrome-permutation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0266-palindrome-permutation) |
 | [0268-missing-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
 | ------- |
