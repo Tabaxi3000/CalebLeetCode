@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0353-design-snake-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0353-design-snake-game) |
 | [0355-design-twitter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0355-design-twitter) |
 | [0356-line-reflection](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0356-line-reflection) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
 ## String
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0344-reverse-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
 ## Sliding Window
 |  |
 | ------- |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
 ## Sorting
 |  |
 | ------- |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
 ## Binary Search
 |  |
 | ------- |
@@ -722,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0355-design-twitter) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1100,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
 ## Data Stream
 |  |
 | ------- |
