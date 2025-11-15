@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0266-palindrome-permutation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0266-palindrome-permutation) |
 | [0267-palindrome-permutation-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0267-palindrome-permutation-ii) |
 | [0269-alien-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0269-alien-dictionary) |
+| [0271-encode-and-decode-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0271-encode-and-decode-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0265-paint-house-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0265-paint-house-ii) |
 | [0268-missing-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0268-missing-number) |
 | [0269-alien-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0269-alien-dictionary) |
+| [0271-encode-and-decode-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0271-encode-and-decode-strings) |
 ## Greedy
 |  |
 | ------- |
@@ -806,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0244-shortest-word-distance-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0244-shortest-word-distance-ii) |
 | [0251-flatten-2d-vector](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0251-flatten-2d-vector) |
+| [0271-encode-and-decode-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0271-encode-and-decode-strings) |
 ## Doubly-Linked List
 |  |
 | ------- |
