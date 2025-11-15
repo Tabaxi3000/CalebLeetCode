@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0336-palindrome-pairs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0336-palindrome-pairs) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
+| [0347-top-k-frequent-elements](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0336-palindrome-pairs) |
 | [0346-moving-average-from-data-stream](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0346-moving-average-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0296-best-meeting-point](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0296-best-meeting-point) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0324-wiggle-sort-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0327-count-of-range-sum) |
+| [0347-top-k-frequent-elements](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -690,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0264-ugly-number-ii) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1047,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
@@ -1057,6 +1063,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Data Stream
 |  |
 | ------- |
@@ -1125,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Binary Indexed Tree
 |  |
 | ------- |
