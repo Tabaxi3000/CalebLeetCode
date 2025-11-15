@@ -535,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0294-flip-game-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0294-flip-game-ii) |
 | [0296-best-meeting-point](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0296-best-meeting-point) |
 | [0313-super-ugly-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0313-super-ugly-number) |
+| [0319-bulb-switcher](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0319-bulb-switcher) |
 ## Trie
 |  |
 | ------- |
@@ -1079,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0319-bulb-switcher) |
 ## Game Theory
 |  |
 | ------- |
