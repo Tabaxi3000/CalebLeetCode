@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0247-strobogrammatic-number-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0247-strobogrammatic-number-ii) |
 | [0248-strobogrammatic-number-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0248-strobogrammatic-number-iii) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 ## Array
 |  |
 | ------- |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0249-group-shifted-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0249-group-shifted-strings) |
 | [0251-flatten-2d-vector](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0251-flatten-2d-vector) |
 | [0253-meeting-rooms-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0253-meeting-rooms-ii) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0234-palindrome-linked-list) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0085-maximal-rectangle) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -662,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0250-count-univalue-subtrees](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0250-count-univalue-subtrees) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -698,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0250-count-univalue-subtrees](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0250-count-univalue-subtrees) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -710,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
