@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0274-h-index](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0274-h-index) |
 | [0280-wiggle-sort](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0280-wiggle-sort) |
+| [0281-zigzag-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0281-zigzag-iterator) |
 ## Greedy
 |  |
 | ------- |
@@ -831,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0244-shortest-word-distance-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0244-shortest-word-distance-ii) |
 | [0251-flatten-2d-vector](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0251-flatten-2d-vector) |
 | [0271-encode-and-decode-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0271-encode-and-decode-strings) |
+| [0281-zigzag-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0281-zigzag-iterator) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0251-flatten-2d-vector](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0251-flatten-2d-vector) |
+| [0281-zigzag-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0281-zigzag-iterator) |
 ## Database
 |  |
 | ------- |
@@ -941,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0239-sliding-window-maximum) |
+| [0281-zigzag-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0281-zigzag-iterator) |
 ## Monotonic Queue
 |  |
 | ------- |
