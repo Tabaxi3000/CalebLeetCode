@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0259-3sum-smaller](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0259-3sum-smaller) |
 | [0268-missing-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0268-missing-number) |
 | [0270-closest-binary-search-tree-value](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0270-closest-binary-search-tree-value) |
+| [0278-first-bad-version](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0278-first-bad-version) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -839,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0157-read-n-characters-given-read4](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0157-read-n-characters-given-read4) |
 | [0158-read-n-characters-given-read4-ii-call-multiple-times](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0158-read-n-characters-given-read4-ii-call-multiple-times) |
 | [0277-find-the-celebrity](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0277-find-the-celebrity) |
+| [0278-first-bad-version](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0278-first-bad-version) |
 ## Bucket Sort
 |  |
 | ------- |
