@@ -745,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
+| [0310-minimum-height-trees](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0310-minimum-height-trees) |
 ## Tree
 |  |
 | ------- |
@@ -872,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
+| [0310-minimum-height-trees](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0310-minimum-height-trees) |
 ## Union Find
 |  |
 | ------- |
@@ -888,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0269-alien-dictionary) |
 | [0277-find-the-celebrity](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0277-find-the-celebrity) |
+| [0310-minimum-height-trees](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0310-minimum-height-trees) |
 ## Design
 |  |
 | ------- |
@@ -992,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0210-course-schedule-ii) |
 | [0269-alien-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0269-alien-dictionary) |
+| [0310-minimum-height-trees](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0310-minimum-height-trees) |
 ## Prefix Sum
 |  |
 | ------- |
