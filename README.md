@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0348-design-tic-tac-toe](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0348-design-tic-tac-toe) |
 | [0349-intersection-of-two-arrays](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## String
 |  |
 | ------- |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1009,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0261-graph-valid-tree) |
 | [0305-number-of-islands-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0305-number-of-islands-ii) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Graph
 |  |
 | ------- |
@@ -1048,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0346-moving-average-from-data-stream](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0348-design-tic-tac-toe](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0348-design-tic-tac-toe) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1088,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0170-two-sum-iii-data-structure-design](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0295-find-median-from-data-stream](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0346-moving-average-from-data-stream](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0346-moving-average-from-data-stream) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Iterator
 |  |
 | ------- |
@@ -1178,6 +1183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0327-count-of-range-sum) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Queue
 |  |
 | ------- |
