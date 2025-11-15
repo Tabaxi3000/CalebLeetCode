@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0299-bulls-and-cows) |
 | [0305-number-of-islands-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0305-number-of-islands-ii) |
 | [0311-sparse-matrix-multiplication](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0311-sparse-matrix-multiplication) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 ## String
 |  |
 | ------- |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0280-wiggle-sort](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0280-wiggle-sort) |
 | [0295-find-median-from-data-stream](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0296-best-meeting-point](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0296-best-meeting-point) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 ## Binary Search
 |  |
 | ------- |
@@ -754,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0310-minimum-height-trees](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0310-minimum-height-trees) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -797,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0285-inorder-successor-in-bst](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0285-inorder-successor-in-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -840,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0285-inorder-successor-in-bst](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0285-inorder-successor-in-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -882,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0310-minimum-height-trees](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0310-minimum-height-trees) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 ## Union Find
 |  |
 | ------- |
