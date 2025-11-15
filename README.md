@@ -629,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0368-largest-divisible-subset) |
+| [0369-plus-one-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0369-plus-one-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -704,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0355-design-twitter) |
+| [0369-plus-one-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0369-plus-one-linked-list) |
 ## Stack
 |  |
 | ------- |
