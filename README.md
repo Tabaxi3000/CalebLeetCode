@@ -819,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0333-largest-bst-subtree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0333-largest-bst-subtree) |
 | [0337-house-robber-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0337-house-robber-iii) |
+| [0339-nested-list-weight-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0339-nested-list-weight-sum) |
 ## Tree
 |  |
 | ------- |
@@ -961,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0339-nested-list-weight-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0339-nested-list-weight-sum) |
 ## Union Find
 |  |
 | ------- |
