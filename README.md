@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0267-palindrome-permutation-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0267-palindrome-permutation-ii) |
 | [0268-missing-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0268-missing-number) |
 | [0288-unique-word-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0288-unique-word-abbreviation) |
+| [0290-word-pattern](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0290-word-pattern) |
 ## String
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0282-expression-add-operators) |
 | [0288-unique-word-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0288-unique-word-abbreviation) |
+| [0290-word-pattern](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0290-word-pattern) |
 ## Sliding Window
 |  |
 | ------- |
