@@ -465,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0216-combination-sum-iii) |
+| [0254-factor-combinations](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0254-factor-combinations) |
 ## Linked List
 |  |
 | ------- |
