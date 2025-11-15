@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0311-sparse-matrix-multiplication](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0311-sparse-matrix-multiplication) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
+| [0336-palindrome-pairs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0336-palindrome-pairs) |
 ## String
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0320-generalized-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0320-generalized-abbreviation) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0336-palindrome-pairs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0336-palindrome-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0335-self-crossing) |
+| [0336-palindrome-pairs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0336-palindrome-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0212-word-search-ii) |
+| [0336-palindrome-pairs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0336-palindrome-pairs) |
 ## Backtracking
 |  |
 | ------- |
