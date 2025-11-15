@@ -720,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0272-closest-binary-search-tree-value-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0285-inorder-successor-in-bst](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0285-inorder-successor-in-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 ## Tree
 |  |
 | ------- |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0272-closest-binary-search-tree-value-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0285-inorder-successor-in-bst](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0285-inorder-successor-in-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 ## Binary Tree
 |  |
 | ------- |
@@ -804,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0272-closest-binary-search-tree-value-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0285-inorder-successor-in-bst](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0285-inorder-successor-in-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 ## Binary Search Tree
 |  |
 | ------- |
