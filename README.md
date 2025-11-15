@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0265-paint-house-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0265-paint-house-ii) |
 | [0276-paint-fence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0276-paint-fence) |
 | [0279-perfect-squares](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0279-perfect-squares) |
+| [0294-flip-game-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0294-flip-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0292-nim-game) |
+| [0294-flip-game-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0294-flip-game-ii) |
 ## Trie
 |  |
 | ------- |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0257-binary-tree-paths) |
 | [0267-palindrome-permutation-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0267-palindrome-permutation-ii) |
 | [0282-expression-add-operators](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0282-expression-add-operators) |
+| [0294-flip-game-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0294-flip-game-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0294-flip-game-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0294-flip-game-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -988,4 +992,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0292-nim-game) |
+| [0294-flip-game-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0294-flip-game-ii) |
 <!---LeetCode Topics End-->
