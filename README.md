@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0274-h-index](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0274-h-index) |
+| [0280-wiggle-sort](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0280-wiggle-sort) |
 ## Greedy
 |  |
 | ------- |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0179-largest-number) |
 | [0253-meeting-rooms-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0253-meeting-rooms-ii) |
+| [0280-wiggle-sort](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0280-wiggle-sort) |
 ## Sorting
 |  |
 | ------- |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0259-3sum-smaller](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0259-3sum-smaller) |
 | [0268-missing-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0274-h-index) |
+| [0280-wiggle-sort](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0280-wiggle-sort) |
 ## Binary Search
 |  |
 | ------- |
