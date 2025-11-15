@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0259-3sum-smaller](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0259-3sum-smaller) |
 | [0268-missing-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0268-missing-number) |
+| [0270-closest-binary-search-tree-value](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0270-closest-binary-search-tree-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -664,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0257-binary-tree-paths) |
 | [0261-graph-valid-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0269-alien-dictionary) |
+| [0270-closest-binary-search-tree-value](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0270-closest-binary-search-tree-value) |
 ## Tree
 |  |
 | ------- |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0250-count-univalue-subtrees](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0250-count-univalue-subtrees) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0257-binary-tree-paths) |
+| [0270-closest-binary-search-tree-value](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0270-closest-binary-search-tree-value) |
 ## Binary Tree
 |  |
 | ------- |
@@ -740,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0250-count-univalue-subtrees](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0250-count-univalue-subtrees) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0257-binary-tree-paths) |
+| [0270-closest-binary-search-tree-value](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0270-closest-binary-search-tree-value) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -753,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
+| [0270-closest-binary-search-tree-value](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0270-closest-binary-search-tree-value) |
 ## Breadth-First Search
 |  |
 | ------- |
