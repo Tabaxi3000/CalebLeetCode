@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0268-missing-number) |
 | [0269-alien-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0271-encode-and-decode-strings) |
+| [0274-h-index](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0274-h-index) |
 ## Greedy
 |  |
 | ------- |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0259-3sum-smaller](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0259-3sum-smaller) |
 | [0268-missing-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0274-h-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -931,4 +933,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0239-sliding-window-maximum) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
