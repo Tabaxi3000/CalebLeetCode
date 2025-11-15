@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0266-palindrome-permutation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0266-palindrome-permutation) |
 | [0267-palindrome-permutation-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0267-palindrome-permutation-ii) |
 | [0268-missing-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0268-missing-number) |
+| [0288-unique-word-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0288-unique-word-abbreviation) |
 ## String
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0273-integer-to-english-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0282-expression-add-operators) |
+| [0288-unique-word-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0288-unique-word-abbreviation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0288-unique-word-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0288-unique-word-abbreviation) |
 ## Greedy
 |  |
 | ------- |
@@ -848,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0281-zigzag-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0281-zigzag-iterator) |
 | [0284-peeking-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0284-peeking-iterator) |
+| [0288-unique-word-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0288-unique-word-abbreviation) |
 ## Doubly-Linked List
 |  |
 | ------- |
