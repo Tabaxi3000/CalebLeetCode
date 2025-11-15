@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0358-rearrange-string-k-distance-apart](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0359-logger-rate-limiter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0359-logger-rate-limiter) |
 | [0379-design-phone-directory](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0379-design-phone-directory) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## String
 |  |
 | ------- |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0379-design-phone-directory](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0379-design-phone-directory) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Greedy
 |  |
 | ------- |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Trie
 |  |
 | ------- |
@@ -1122,6 +1125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0359-logger-rate-limiter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0359-logger-rate-limiter) |
 | [0362-design-hit-counter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0362-design-hit-counter) |
 | [0379-design-phone-directory](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0379-design-phone-directory) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1300,4 +1304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0351-android-unlock-patterns](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0351-android-unlock-patterns) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
