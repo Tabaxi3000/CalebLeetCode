@@ -553,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0362-design-hit-counter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0362-design-hit-counter) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0367-valid-perfect-square](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1125,6 +1126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0158-read-n-characters-given-read4-ii-call-multiple-times](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0158-read-n-characters-given-read4-ii-call-multiple-times) |
 | [0277-find-the-celebrity](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0277-find-the-celebrity) |
 | [0278-first-bad-version](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Bucket Sort
 |  |
 | ------- |
