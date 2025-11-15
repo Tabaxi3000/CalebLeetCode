@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0359-logger-rate-limiter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0359-logger-rate-limiter) |
 | [0379-design-phone-directory](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0379-design-phone-directory) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## String
 |  |
 | ------- |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0379-design-phone-directory](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0379-design-phone-directory) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Greedy
 |  |
 | ------- |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Trie
 |  |
 | ------- |
@@ -1126,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0362-design-hit-counter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0362-design-hit-counter) |
 | [0379-design-phone-directory](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0379-design-phone-directory) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1308,4 +1312,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
