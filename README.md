@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0343-integer-break) |
 | [0351-android-unlock-patterns](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0351-android-unlock-patterns) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0343-integer-break) |
 | [0356-line-reflection](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0356-line-reflection) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Trie
 |  |
 | ------- |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0306-additive-number) |
 | [0320-generalized-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0320-generalized-abbreviation) |
 | [0351-android-unlock-patterns](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0351-android-unlock-patterns) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Linked List
 |  |
 | ------- |
