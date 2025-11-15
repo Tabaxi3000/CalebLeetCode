@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0313-super-ugly-number) |
+| [0322-coin-change](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0322-coin-change) |
 ## Recursion
 |  |
 | ------- |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0317-shortest-distance-from-all-buildings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0321-create-maximum-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0321-create-maximum-number) |
+| [0322-coin-change](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0322-coin-change) |
 ## Greedy
 |  |
 | ------- |
@@ -911,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0310-minimum-height-trees) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0317-shortest-distance-from-all-buildings) |
+| [0322-coin-change](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0322-coin-change) |
 ## Union Find
 |  |
 | ------- |
