@@ -650,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0382-linked-list-random-node) |
 ## Trie
 |  |
 | ------- |
@@ -727,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0355-design-twitter) |
 | [0369-plus-one-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0369-plus-one-linked-list) |
 | [0379-design-phone-directory](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0379-design-phone-directory) |
+| [0382-linked-list-random-node](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0382-linked-list-random-node) |
 ## Stack
 |  |
 | ------- |
@@ -1313,4 +1315,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0382-linked-list-random-node) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
