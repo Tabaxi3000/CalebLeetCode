@@ -669,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0321-create-maximum-number) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0341-flatten-nested-list-iterator) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -823,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0333-largest-bst-subtree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0333-largest-bst-subtree) |
 | [0337-house-robber-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0337-house-robber-iii) |
 | [0339-nested-list-weight-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0339-nested-list-weight-sum) |
+| [0341-flatten-nested-list-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0341-flatten-nested-list-iterator) |
 ## Tree
 |  |
 | ------- |
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0333-largest-bst-subtree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0333-largest-bst-subtree) |
 | [0337-house-robber-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0337-house-robber-iii) |
+| [0341-flatten-nested-list-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0341-flatten-nested-list-iterator) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1010,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0308-range-sum-query-2d-mutable](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0308-range-sum-query-2d-mutable) |
+| [0341-flatten-nested-list-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0341-flatten-nested-list-iterator) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1054,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0251-flatten-2d-vector](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0251-flatten-2d-vector) |
 | [0281-zigzag-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0281-zigzag-iterator) |
 | [0284-peeking-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0284-peeking-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0341-flatten-nested-list-iterator) |
 ## Database
 |  |
 | ------- |
@@ -1142,6 +1147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0239-sliding-window-maximum) |
 | [0281-zigzag-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0281-zigzag-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0341-flatten-nested-list-iterator) |
 ## Monotonic Queue
 |  |
 | ------- |
