@@ -686,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0456-132-pattern) |
+| [0483-smallest-good-base](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0483-smallest-good-base) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -788,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0477-total-hamming-distance) |
 | [0479-largest-palindrome-product](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0479-largest-palindrome-product) |
+| [0483-smallest-good-base](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0483-smallest-good-base) |
 | [0903-implement-rand10-using-rand7](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0903-implement-rand10-using-rand7) |
 ## Trie
 |  |
