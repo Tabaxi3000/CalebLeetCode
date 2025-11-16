@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0471-encode-string-with-shortest-length](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0471-encode-string-with-shortest-length) |
 | [0472-concatenated-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0474-ones-and-zeroes) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 ## Sliding Window
 |  |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0471-encode-string-with-shortest-length](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0471-encode-string-with-shortest-length) |
 | [0472-concatenated-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0474-ones-and-zeroes) |
 ## Recursion
 |  |
 | ------- |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0474-ones-and-zeroes) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 ## Greedy
 |  |
