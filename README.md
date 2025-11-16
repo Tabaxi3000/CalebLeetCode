@@ -799,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0477-total-hamming-distance) |
 | [0479-largest-palindrome-product](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0483-smallest-good-base) |
+| [0492-construct-the-rectangle](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0492-construct-the-rectangle) |
 | [0903-implement-rand10-using-rand7](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0903-implement-rand10-using-rand7) |
 ## Trie
 |  |
