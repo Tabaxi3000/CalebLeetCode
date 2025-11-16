@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0425-word-squares](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0425-word-squares) |
 | [0434-number-of-segments-in-a-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0439-ternary-expression-parser](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0439-ternary-expression-parser) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 ## Sliding Window
 |  |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0390-elimination-game) |
+| [0439-ternary-expression-parser](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0439-ternary-expression-parser) |
 ## Array
 |  |
 | ------- |
@@ -848,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0364-nested-list-weight-sum-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0364-nested-list-weight-sum-ii) |
 | [0385-mini-parser](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0385-mini-parser) |
 | [0402-remove-k-digits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0402-remove-k-digits) |
+| [0439-ternary-expression-parser](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0439-ternary-expression-parser) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 ## Heap (Priority Queue)
 |  |
