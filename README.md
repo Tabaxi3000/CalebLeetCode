@@ -804,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0369-plus-one-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0369-plus-one-linked-list) |
 | [0379-design-phone-directory](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0379-design-phone-directory) |
 | [0382-linked-list-random-node](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0382-linked-list-random-node) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -834,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0364-nested-list-weight-sum-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0364-nested-list-weight-sum-ii) |
 | [0385-mini-parser](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0385-mini-parser) |
 | [0402-remove-k-digits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0402-remove-k-digits) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1023,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0419-battleships-in-a-board) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -1073,6 +1076,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0366-find-leaves-of-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1122,6 +1126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0337-house-robber-iii) |
 | [0366-find-leaves-of-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1139,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0272-closest-binary-search-tree-value-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0285-inorder-successor-in-bst](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0285-inorder-successor-in-bst) |
 | [0333-largest-bst-subtree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0333-largest-bst-subtree) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1239,6 +1245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0146-lru-cache) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 ## Geometry
 |  |
 | ------- |
