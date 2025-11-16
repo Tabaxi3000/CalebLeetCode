@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0408-valid-word-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0408-valid-word-abbreviation) |
 | [0409-longest-palindrome](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0409-longest-palindrome) |
+| [0411-minimum-unique-word-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0411-minimum-unique-word-abbreviation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0399-evaluate-division) |
 | [0406-queue-reconstruction-by-height](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0410-split-array-largest-sum) |
+| [0411-minimum-unique-word-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0411-minimum-unique-word-abbreviation) |
 ## Greedy
 |  |
 | ------- |
@@ -744,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0320-generalized-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0320-generalized-abbreviation) |
 | [0351-android-unlock-patterns](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0351-android-unlock-patterns) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0411-minimum-unique-word-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0411-minimum-unique-word-abbreviation) |
 ## Linked List
 |  |
 | ------- |
@@ -864,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0397-integer-replacement) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0411-minimum-unique-word-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0411-minimum-unique-word-abbreviation) |
 ## Matrix
 |  |
 | ------- |
