@@ -590,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0500-keyboard-row) |
+| [0502-ipo](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0502-ipo) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 ## Greedy
 |  |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0455-assign-cookies) |
 | [0484-find-permutation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0484-find-permutation) |
+| [0502-ipo](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0502-ipo) |
 ## Sorting
 |  |
 | ------- |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0472-concatenated-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0472-concatenated-words) |
+| [0502-ipo](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0502-ipo) |
 ## Binary Search
 |  |
 | ------- |
@@ -957,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0420-strong-password-checker](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0420-strong-password-checker) |
 | [0451-sort-characters-by-frequency](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0502-ipo) |
 ## Merge Sort
 |  |
 | ------- |
