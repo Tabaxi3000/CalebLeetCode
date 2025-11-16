@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0471-encode-string-with-shortest-length](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0471-encode-string-with-shortest-length) |
 | [0472-concatenated-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0474-ones-and-zeroes) |
+| [0481-magical-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0481-magical-string) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 ## Sliding Window
 |  |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0408-valid-word-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0408-valid-word-abbreviation) |
 | [0443-string-compression](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0455-assign-cookies) |
+| [0481-magical-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0481-magical-string) |
 ## Dynamic Programming
 |  |
 | ------- |
