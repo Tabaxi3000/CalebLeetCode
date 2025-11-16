@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0408-valid-word-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0408-valid-word-abbreviation) |
 | [0409-longest-palindrome](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0409-longest-palindrome) |
 | [0411-minimum-unique-word-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0411-minimum-unique-word-abbreviation) |
+| [0412-fizz-buzz](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
@@ -700,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
@@ -922,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0289-game-of-life) |
 | [0348-design-tic-tac-toe](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0348-design-tic-tac-toe) |
 | [0353-design-snake-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0353-design-snake-game) |
+| [0412-fizz-buzz](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0412-fizz-buzz) |
 ## Combinatorics
 |  |
 | ------- |
