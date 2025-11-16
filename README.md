@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0471-encode-string-with-shortest-length](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0471-encode-string-with-shortest-length) |
 | [0472-concatenated-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0473-matchsticks-to-square) |
 ## Recursion
 |  |
 | ------- |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0473-matchsticks-to-square) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 ## Greedy
 |  |
@@ -831,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0411-minimum-unique-word-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0411-minimum-unique-word-abbreviation) |
 | [0425-word-squares](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0425-word-squares) |
+| [0473-matchsticks-to-square](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0473-matchsticks-to-square) |
 ## Linked List
 |  |
 | ------- |
@@ -965,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0411-minimum-unique-word-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0411-minimum-unique-word-abbreviation) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0461-hamming-distance) |
+| [0473-matchsticks-to-square](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0473-matchsticks-to-square) |
 ## Matrix
 |  |
 | ------- |
@@ -1536,6 +1540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0351-android-unlock-patterns](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0351-android-unlock-patterns) |
+| [0473-matchsticks-to-square](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0473-matchsticks-to-square) |
 ## Randomized
 |  |
 | ------- |
