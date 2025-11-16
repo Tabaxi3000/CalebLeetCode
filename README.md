@@ -850,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0411-minimum-unique-word-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0411-minimum-unique-word-abbreviation) |
 | [0425-word-squares](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0425-word-squares) |
 | [0473-matchsticks-to-square](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0473-matchsticks-to-square) |
+| [0865-robot-room-cleaner](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0865-robot-room-cleaner) |
 ## Linked List
 |  |
 | ------- |
@@ -1388,6 +1389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0277-find-the-celebrity](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0277-find-the-celebrity) |
 | [0278-first-bad-version](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0865-robot-room-cleaner](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0865-robot-room-cleaner) |
 ## Bucket Sort
 |  |
 | ------- |
