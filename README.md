@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0481-magical-string) |
 | [0484-find-permutation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0484-find-permutation) |
 | [0500-keyboard-row](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0504-base-7) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 ## Sliding Window
 |  |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0479-largest-palindrome-product](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0483-smallest-good-base) |
 | [0492-construct-the-rectangle](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0492-construct-the-rectangle) |
+| [0504-base-7](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0504-base-7) |
 | [0903-implement-rand10-using-rand7](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0903-implement-rand10-using-rand7) |
 ## Trie
 |  |
