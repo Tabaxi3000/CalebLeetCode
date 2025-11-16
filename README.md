@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0416-partition-equal-subset-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0410-split-array-largest-sum) |
 | [0411-minimum-unique-word-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0411-minimum-unique-word-abbreviation) |
 | [0413-arithmetic-slices](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0416-partition-equal-subset-sum) |
 ## Greedy
 |  |
 | ------- |
