@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0432-all-oone-data-structure](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0432-all-oone-data-structure) |
 ## String
 |  |
 | ------- |
@@ -807,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0369-plus-one-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0369-plus-one-linked-list) |
 | [0379-design-phone-directory](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0379-design-phone-directory) |
 | [0382-linked-list-random-node](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0382-linked-list-random-node) |
+| [0432-all-oone-data-structure](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0432-all-oone-data-structure) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Stack
@@ -1257,11 +1259,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0384-shuffle-an-array) |
+| [0432-all-oone-data-structure](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0432-all-oone-data-structure) |
 | [0771-encode-n-ary-tree-to-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0771-encode-n-ary-tree-to-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0432-all-oone-data-structure) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Geometry
