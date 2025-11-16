@@ -571,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0474-ones-and-zeroes) |
+| [0477-total-hamming-distance](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0477-total-hamming-distance) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 ## Greedy
 |  |
@@ -783,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0447-number-of-boomerangs) |
 | [0458-poor-pigs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0477-total-hamming-distance](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0477-total-hamming-distance) |
 | [0903-implement-rand10-using-rand7](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0903-implement-rand10-using-rand7) |
 ## Trie
 |  |
@@ -972,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0461-hamming-distance) |
 | [0473-matchsticks-to-square](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0473-matchsticks-to-square) |
+| [0477-total-hamming-distance](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0477-total-hamming-distance) |
 ## Matrix
 |  |
 | ------- |
