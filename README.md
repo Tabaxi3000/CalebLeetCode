@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0484-find-permutation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0484-find-permutation) |
 | [0500-keyboard-row](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0504-base-7) |
+| [0514-freedom-trail](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0514-freedom-trail) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 ## Sliding Window
 |  |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0474-ones-and-zeroes) |
 | [0487-max-consecutive-ones-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0487-max-consecutive-ones-ii) |
+| [0514-freedom-trail](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0514-freedom-trail) |
 ## Recursion
 |  |
 | ------- |
@@ -1170,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0505-the-maze-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0505-the-maze-ii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0514-freedom-trail](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0514-freedom-trail) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -1358,6 +1361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0490-the-maze](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0490-the-maze) |
 | [0505-the-maze-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0505-the-maze-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0514-freedom-trail](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0514-freedom-trail) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0771-encode-n-ary-tree-to-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0771-encode-n-ary-tree-to-binary-tree) |
