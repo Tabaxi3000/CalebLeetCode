@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0458-poor-pigs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0458-poor-pigs) |
 ## Recursion
 |  |
 | ------- |
@@ -761,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0447-number-of-boomerangs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0447-number-of-boomerangs) |
+| [0458-poor-pigs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0458-poor-pigs) |
 ## Trie
 |  |
 | ------- |
@@ -1007,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0062-unique-paths) |
+| [0458-poor-pigs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0458-poor-pigs) |
 ## Memoization
 |  |
 | ------- |
