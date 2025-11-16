@@ -555,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0456-132-pattern) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 ## Greedy
 |  |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -764,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0447-number-of-boomerangs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0447-number-of-boomerangs) |
 | [0458-poor-pigs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0458-poor-pigs) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Trie
 |  |
 | ------- |
