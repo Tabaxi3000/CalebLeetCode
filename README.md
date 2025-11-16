@@ -747,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0425-word-squares](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0425-word-squares) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Backtracking
 |  |
 | ------- |
