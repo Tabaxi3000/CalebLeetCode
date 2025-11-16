@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0408-valid-word-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0408-valid-word-abbreviation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0360-sort-transformed-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0360-sort-transformed-array) |
 | [0392-is-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0392-is-subsequence) |
+| [0408-valid-word-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0408-valid-word-abbreviation) |
 ## Dynamic Programming
 |  |
 | ------- |
