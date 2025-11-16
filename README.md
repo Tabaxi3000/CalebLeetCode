@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0397-integer-replacement) |
+| [0410-split-array-largest-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0410-split-array-largest-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0399-evaluate-division) |
 | [0406-queue-reconstruction-by-height](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0406-queue-reconstruction-by-height) |
+| [0410-split-array-largest-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0410-split-array-largest-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -602,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0400-nth-digit) |
+| [0410-split-array-largest-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0410-split-array-largest-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1302,6 +1306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0370-range-addition](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0370-range-addition) |
+| [0410-split-array-largest-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0410-split-array-largest-sum) |
 ## Quickselect
 |  |
 | ------- |
