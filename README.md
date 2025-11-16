@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0425-word-squares](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0425-word-squares) |
 | [0436-find-right-interval](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0436-find-right-interval) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 ## Greedy
 |  |
