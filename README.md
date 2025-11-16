@@ -594,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0503-next-greater-element-ii) |
 | [0505-the-maze-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0505-the-maze-ii) |
+| [0506-relative-ranks](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0506-relative-ranks) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 ## Greedy
 |  |
@@ -670,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0472-concatenated-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0472-concatenated-words) |
 | [0502-ipo](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0506-relative-ranks) |
 ## Binary Search
 |  |
 | ------- |
@@ -967,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0502-ipo) |
 | [0505-the-maze-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0505-the-maze-ii) |
+| [0506-relative-ranks](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0506-relative-ranks) |
 ## Merge Sort
 |  |
 | ------- |
