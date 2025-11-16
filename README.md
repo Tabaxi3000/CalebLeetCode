@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0409-longest-palindrome) |
 | [0411-minimum-unique-word-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0411-minimum-unique-word-abbreviation) |
 | [0412-fizz-buzz](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0412-fizz-buzz) |
+| [0420-strong-password-checker](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0420-strong-password-checker) |
 ## Sliding Window
 |  |
 | ------- |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0410-split-array-largest-sum) |
+| [0420-strong-password-checker](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0420-strong-password-checker) |
 ## Sorting
 |  |
 | ------- |
@@ -834,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0355-design-twitter) |
 | [0358-rearrange-string-k-distance-apart](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0420-strong-password-checker](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0420-strong-password-checker) |
 ## Merge Sort
 |  |
 | ------- |
