@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0447-number-of-boomerangs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0447-number-of-boomerangs) |
 ## String
 |  |
 | ------- |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0425-word-squares](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0425-word-squares) |
 | [0436-find-right-interval](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0436-find-right-interval) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0447-number-of-boomerangs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0447-number-of-boomerangs) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 ## Greedy
 |  |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0441-arranging-coins](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0447-number-of-boomerangs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0447-number-of-boomerangs) |
 ## Trie
 |  |
 | ------- |
