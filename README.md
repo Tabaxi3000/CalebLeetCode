@@ -547,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0447-number-of-boomerangs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 ## Greedy
 |  |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0410-split-array-largest-sum) |
 | [0420-strong-password-checker](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0420-strong-password-checker) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Sorting
 |  |
 | ------- |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0436-find-right-interval](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Binary Search
 |  |
 | ------- |
