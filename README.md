@@ -582,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0487-max-consecutive-ones-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0487-max-consecutive-ones-ii) |
 | [0490-the-maze](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0490-the-maze) |
 | [0491-non-decreasing-subsequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0491-non-decreasing-subsequences) |
+| [0493-reverse-pairs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0493-reverse-pairs) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 ## Greedy
 |  |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0456-132-pattern) |
 | [0483-smallest-good-base](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0483-smallest-good-base) |
+| [0493-reverse-pairs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0493-reverse-pairs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0493-reverse-pairs) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 ## Math
 |  |
@@ -953,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0493-reverse-pairs) |
 ## String Matching
 |  |
 | ------- |
@@ -1506,6 +1510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1515,6 +1520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0493-reverse-pairs) |
 ## Line Sweep
 |  |
 | ------- |
@@ -1530,6 +1536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0493-reverse-pairs) |
 ## Queue
 |  |
 | ------- |
