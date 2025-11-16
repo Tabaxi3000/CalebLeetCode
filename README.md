@@ -586,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0498-diagonal-traverse) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 ## Greedy
 |  |
@@ -1037,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0463-island-perimeter) |
 | [0490-the-maze](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0490-the-maze) |
+| [0498-diagonal-traverse](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0498-diagonal-traverse) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 ## Monotonic Stack
 |  |
@@ -1065,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0353-design-snake-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0353-design-snake-game) |
 | [0412-fizz-buzz](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0498-diagonal-traverse) |
 ## Combinatorics
 |  |
 | ------- |
