@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0481-magical-string) |
+| [0484-find-permutation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0484-find-permutation) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 ## Sliding Window
 |  |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0474-ones-and-zeroes) |
 | [0477-total-hamming-distance](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0477-total-hamming-distance) |
+| [0484-find-permutation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0484-find-permutation) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 ## Greedy
 |  |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0420-strong-password-checker) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0455-assign-cookies) |
+| [0484-find-permutation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0484-find-permutation) |
 ## Sorting
 |  |
 | ------- |
@@ -915,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0439-ternary-expression-parser](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0439-ternary-expression-parser) |
 | [0445-add-two-numbers-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0456-132-pattern) |
+| [0484-find-permutation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0484-find-permutation) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 ## Heap (Priority Queue)
 |  |
