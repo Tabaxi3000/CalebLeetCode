@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0402-remove-k-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0358-rearrange-string-k-distance-apart](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0397-integer-replacement](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0397-integer-replacement) |
+| [0402-remove-k-digits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0402-remove-k-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -791,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0364-nested-list-weight-sum-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0364-nested-list-weight-sum-ii) |
 | [0385-mini-parser](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0385-mini-parser) |
+| [0402-remove-k-digits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0402-remove-k-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -887,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0316-remove-duplicate-letters](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0321-create-maximum-number) |
+| [0402-remove-k-digits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0402-remove-k-digits) |
 ## Simulation
 |  |
 | ------- |
