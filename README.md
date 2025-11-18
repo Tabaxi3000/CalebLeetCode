@@ -781,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0724-find-pivot-index) |
+| [0729-my-calendar-i](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0729-my-calendar-i) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 | [0816-design-hashset](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0817-design-hashmap) |
@@ -946,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0644-maximum-average-subarray-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0644-maximum-average-subarray-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0729-my-calendar-i](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0729-my-calendar-i) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 ## Divide and Conquer
@@ -1846,6 +1848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0642-design-search-autocomplete-system](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0642-design-search-autocomplete-system) |
 | [0676-implement-magic-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0716-max-stack](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0716-max-stack) |
+| [0729-my-calendar-i](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0729-my-calendar-i) |
 | [0771-encode-n-ary-tree-to-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0771-encode-n-ary-tree-to-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0816-design-hashset) |
@@ -2048,6 +2051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0683-k-empty-slots](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0683-k-empty-slots) |
+| [0729-my-calendar-i](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0729-my-calendar-i) |
 ## Line Sweep
 |  |
 | ------- |
@@ -2067,6 +2071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0635-design-log-storage-system](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0635-design-log-storage-system) |
 | [0683-k-empty-slots](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0683-k-empty-slots) |
 | [0716-max-stack](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0716-max-stack) |
+| [0729-my-calendar-i](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0729-my-calendar-i) |
 ## Queue
 |  |
 | ------- |
