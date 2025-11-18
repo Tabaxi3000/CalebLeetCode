@@ -1434,6 +1434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0676-implement-magic-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0684-redundant-connection](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0685-redundant-connection-ii) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -1674,6 +1675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0684-redundant-connection](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0685-redundant-connection-ii) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0771-encode-n-ary-tree-to-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0771-encode-n-ary-tree-to-binary-tree) |
@@ -1689,6 +1691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0399-evaluate-division](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0685-redundant-connection-ii) |
 ## Graph
 |  |
 | ------- |
@@ -1706,6 +1709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0505-the-maze-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0505-the-maze-ii) |
 | [0631-design-excel-sum-formula](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0631-design-excel-sum-formula) |
 | [0684-redundant-connection](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0685-redundant-connection-ii) |
 ## Design
 |  |
 | ------- |
