@@ -1017,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0732-my-calendar-iii) |
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0743-closest-leaf-in-a-binary-tree) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0809-preimage-size-of-factorial-zeroes-function](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0809-preimage-size-of-factorial-zeroes-function) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 ## Divide and Conquer
@@ -1150,6 +1151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-reaching-points](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0796-reaching-points) |
 | [0797-rabbits-in-forest](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0797-rabbits-in-forest) |
 | [0804-rotated-digits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0804-rotated-digits) |
+| [0809-preimage-size-of-factorial-zeroes-function](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0809-preimage-size-of-factorial-zeroes-function) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0903-implement-rand10-using-rand7](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
