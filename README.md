@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0552-student-attendance-record-ii) |
+| [0553-optimal-division](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0553-optimal-division) |
 ## Recursion
 |  |
 | ------- |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0546-remove-boxes) |
 | [0548-split-array-with-equal-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0548-split-array-with-equal-sum) |
+| [0553-optimal-division](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0553-optimal-division) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 ## Greedy
@@ -871,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0537-complex-number-multiplication](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0537-complex-number-multiplication) |
+| [0553-optimal-division](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0553-optimal-division) |
 | [0903-implement-rand10-using-rand7](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 | [0913-random-flip-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0913-random-flip-matrix) |
