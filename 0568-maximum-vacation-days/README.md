@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/median-employee-salary/">568. Maximum Vacation Days</a></h2><h3>Hard</h3><hr><p>LeetCode wants to give one of its best employees the option to travel among <code>n</code> cities to collect algorithm problems. But all work and no play makes Jack a dull boy, you could take vacations in some particular cities and weeks. Your job is to schedule the traveling to maximize the number of vacation days you could take, but there are certain rules and restrictions you need to follow.</p>
+<h2><a href="https://leetcode.com/problems/maximum-vacation-days">568. Maximum Vacation Days</a></h2><h3>Hard</h3><hr><p>LeetCode wants to give one of its best employees the option to travel among <code>n</code> cities to collect algorithm problems. But all work and no play makes Jack a dull boy, you could take vacations in some particular cities and weeks. Your job is to schedule the traveling to maximize the number of vacation days you could take, but there are certain rules and restrictions you need to follow.</p>
 
 <p>Rules and restrictions:</p>
 
