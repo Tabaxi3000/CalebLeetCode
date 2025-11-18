@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0629-k-inverse-pairs-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0629-k-inverse-pairs-array) |
 | [0634-find-the-derangement-of-an-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0634-find-the-derangement-of-an-array) |
 | [0639-decode-ways-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0639-decode-ways-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Recursion
 |  |
 | ------- |
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0644-maximum-average-subarray-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0644-maximum-average-subarray-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 | [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
@@ -745,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0625-minimum-factorization](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0625-minimum-factorization) |
 | [0630-course-schedule-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Sorting
 |  |
 | ------- |
@@ -805,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0642-design-search-autocomplete-system](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0642-design-search-autocomplete-system) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 ## Binary Search
 |  |
