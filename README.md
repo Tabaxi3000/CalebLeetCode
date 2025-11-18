@@ -542,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0544-output-contest-matches](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0544-output-contest-matches) |
 | [0736-parse-lisp-expression](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0736-parse-lisp-expression) |
 | [0781-basic-calculator-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0781-basic-calculator-iv) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 ## Array
 |  |
 | ------- |
@@ -1131,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-find-anagram-mappings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0762-find-anagram-mappings) |
 | [0781-basic-calculator-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0781-basic-calculator-iv) |
 | [0790-global-and-local-inversions](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0790-global-and-local-inversions) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0903-implement-rand10-using-rand7](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
@@ -1387,6 +1389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-ip-to-cidr](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0752-ip-to-cidr) |
 | [0757-pyramid-transition-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0762-find-anagram-mappings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0762-find-anagram-mappings) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 ## Matrix
 |  |
 | ------- |
