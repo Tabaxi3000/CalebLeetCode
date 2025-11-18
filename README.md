@@ -847,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0817-design-hashmap) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
+| [0821-bricks-falling-when-hit](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0821-bricks-falling-when-hit) |
 | [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
@@ -1473,6 +1474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 | [0787-sliding-puzzle](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0787-sliding-puzzle) |
 | [0810-valid-tic-tac-toe-state](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0810-valid-tic-tac-toe-state) |
+| [0821-bricks-falling-when-hit](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0821-bricks-falling-when-hit) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1909,6 +1911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0711-number-of-distinct-islands-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0711-number-of-distinct-islands-ii) |
 | [0721-accounts-merge](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0801-is-graph-bipartite) |
+| [0821-bricks-falling-when-hit](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0821-bricks-falling-when-hit) |
 ## Graph
 |  |
 | ------- |
