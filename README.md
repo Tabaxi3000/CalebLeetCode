@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0736-parse-lisp-expression](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0736-parse-lisp-expression) |
 | [0742-to-lower-case](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0742-to-lower-case) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0752-ip-to-cidr](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0752-ip-to-cidr) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 ## Sliding Window
@@ -1346,6 +1347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0691-stickers-to-spell-word](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0752-ip-to-cidr](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0752-ip-to-cidr) |
 ## Matrix
 |  |
 | ------- |
