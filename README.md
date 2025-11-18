@@ -1544,6 +1544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0694-number-of-distinct-islands](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0694-number-of-distinct-islands) |
 | [0711-number-of-distinct-islands-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0711-number-of-distinct-islands-ii) |
 | [0721-accounts-merge](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0721-accounts-merge) |
+| [0754-cracking-the-safe](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0754-cracking-the-safe) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -1838,6 +1839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0631-design-excel-sum-formula](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0631-design-excel-sum-formula) |
 | [0684-redundant-connection](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0685-redundant-connection-ii) |
+| [0754-cracking-the-safe](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0754-cracking-the-safe) |
 ## Design
 |  |
 | ------- |
@@ -2154,6 +2156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0332-reconstruct-itinerary) |
+| [0754-cracking-the-safe](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0754-cracking-the-safe) |
 ## Bitmask
 |  |
 | ------- |
