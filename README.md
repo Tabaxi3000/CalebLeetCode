@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0740-delete-and-earn) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0757-pyramid-transition-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0757-pyramid-transition-matrix) |
+| [0761-employee-free-time](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0761-employee-free-time) |
 | [0816-design-hashset](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0817-design-hashmap) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
@@ -808,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0751-number-of-corner-rectangles](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0751-number-of-corner-rectangles) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-employee-free-time](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0761-employee-free-time) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 | [0816-design-hashset](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0817-design-hashmap) |
