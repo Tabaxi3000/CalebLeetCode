@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0657-robot-return-to-origin) |
 | [0664-strange-printer](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0664-strange-printer) |
 | [0676-implement-magic-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0676-implement-magic-dictionary) |
+| [0678-valid-parenthesis-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 ## Sliding Window
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0655-print-binary-tree) |
 | [0664-strange-printer](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Recursion
 |  |
 | ------- |
@@ -780,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0670-maximum-swap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Sorting
 |  |
 | ------- |
@@ -1150,6 +1153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0536-construct-binary-tree-from-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0536-construct-binary-tree-from-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0591-tag-validator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0591-tag-validator) |
+| [0678-valid-parenthesis-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
