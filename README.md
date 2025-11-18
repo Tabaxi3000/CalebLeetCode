@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-ambiguous-coordinates](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0834-ambiguous-coordinates) |
 | [0837-most-common-word](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0837-most-common-word) |
 | [0839-short-encoding-of-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0839-short-encoding-of-words) |
+| [0841-shortest-distance-to-a-character](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 ## Sliding Window
 |  |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0793-swap-adjacent-in-lr-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
+| [0841-shortest-distance-to-a-character](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0841-shortest-distance-to-a-character) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0837-most-common-word) |
 | [0839-short-encoding-of-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0839-short-encoding-of-words) |
+| [0841-shortest-distance-to-a-character](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
