@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0504-base-7) |
 | [0514-freedom-trail](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0520-detect-capital](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0520-detect-capital) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 ## Sliding Window
 |  |
