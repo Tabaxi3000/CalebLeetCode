@@ -1133,6 +1133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-basic-calculator-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0781-basic-calculator-iv) |
 | [0790-global-and-local-inversions](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0790-global-and-local-inversions) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0795-k-th-symbol-in-grammar) |
+| [0796-reaching-points](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0796-reaching-points) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0903-implement-rand10-using-rand7](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
