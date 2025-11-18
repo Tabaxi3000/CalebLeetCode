@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0778-reorganize-string) |
 | [0781-basic-calculator-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0781-basic-calculator-iv) |
 | [0797-rabbits-in-forest](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0797-rabbits-in-forest) |
+| [0807-custom-sort-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0807-custom-sort-string) |
 | [0816-design-hashset](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0817-design-hashmap) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-basic-calculator-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0781-basic-calculator-iv) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0800-letter-case-permutation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0800-letter-case-permutation) |
+| [0807-custom-sort-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0807-custom-sort-string) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 ## Sliding Window
 |  |
@@ -961,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0807-custom-sort-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0807-custom-sort-string) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 ## Binary Search
