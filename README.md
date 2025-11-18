@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0721-accounts-merge) |
 | [0734-sentence-similarity](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0734-sentence-similarity) |
+| [0736-parse-lisp-expression](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0736-parse-lisp-expression) |
 | [0816-design-hashset](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0817-design-hashmap) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0722-remove-comments](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0722-remove-comments) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0730-count-different-palindromic-subsequences) |
 | [0734-sentence-similarity](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0734-sentence-similarity) |
+| [0736-parse-lisp-expression](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0736-parse-lisp-expression) |
 | [0742-to-lower-case](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0742-to-lower-case) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0390-elimination-game) |
 | [0439-ternary-expression-parser](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0439-ternary-expression-parser) |
 | [0544-output-contest-matches](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0544-output-contest-matches) |
+| [0736-parse-lisp-expression](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0736-parse-lisp-expression) |
 ## Array
 |  |
 | ------- |
@@ -1240,6 +1243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0682-baseball-game) |
 | [0716-max-stack](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0716-max-stack) |
 | [0735-asteroid-collision](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0735-asteroid-collision) |
+| [0736-parse-lisp-expression](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0736-parse-lisp-expression) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
