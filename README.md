@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-k-th-smallest-prime-fraction](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0841-shortest-distance-to-a-character](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0841-shortest-distance-to-a-character) |
+| [0852-friends-of-appropriate-ages](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0852-friends-of-appropriate-ages) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -870,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-short-encoding-of-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0839-short-encoding-of-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0843-binary-trees-with-factors](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0843-binary-trees-with-factors) |
+| [0852-friends-of-appropriate-ages](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
@@ -996,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-k-th-smallest-prime-fraction](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0807-custom-sort-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0807-custom-sort-string) |
 | [0843-binary-trees-with-factors](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0843-binary-trees-with-factors) |
+| [0852-friends-of-appropriate-ages](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 ## Binary Search
@@ -1050,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0743-closest-leaf-in-a-binary-tree) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0809-preimage-size-of-factorial-zeroes-function](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0809-preimage-size-of-factorial-zeroes-function) |
+| [0852-friends-of-appropriate-ages](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 ## Divide and Conquer
