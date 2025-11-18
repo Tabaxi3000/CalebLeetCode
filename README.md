@@ -1107,6 +1107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0679-24-game) |
 | [0728-self-dividing-numbers](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0728-self-dividing-numbers) |
 | [0751-number-of-corner-rectangles](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0751-number-of-corner-rectangles) |
+| [0762-find-anagram-mappings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0762-find-anagram-mappings) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0903-implement-rand10-using-rand7](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
@@ -1357,6 +1358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0752-ip-to-cidr](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0752-ip-to-cidr) |
 | [0757-pyramid-transition-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0757-pyramid-transition-matrix) |
+| [0762-find-anagram-mappings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0762-find-anagram-mappings) |
 ## Matrix
 |  |
 | ------- |
