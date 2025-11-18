@@ -552,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0843-binary-trees-with-factors](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0843-binary-trees-with-factors) |
 | [0862-find-and-replace-in-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0862-find-and-replace-in-string) |
 | [0864-image-overlap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0864-image-overlap) |
+| [0876-hand-of-straights](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0876-hand-of-straights) |
 ## Recursion
 |  |
 | ------- |
@@ -1477,6 +1478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-k-th-symbol-in-grammar](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0800-letter-case-permutation) |
 | [0858-masking-personal-information](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0858-masking-personal-information) |
+| [0876-hand-of-straights](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0876-hand-of-straights) |
 ## Matrix
 |  |
 | ------- |
@@ -1956,6 +1958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0869-similar-string-groups](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0869-similar-string-groups) |
 | [0871-keys-and-rooms](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0871-keys-and-rooms) |
+| [0876-hand-of-straights](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0876-hand-of-straights) |
 ## Union Find
 |  |
 | ------- |
@@ -1998,6 +2001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0862-find-and-replace-in-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0862-find-and-replace-in-string) |
 | [0871-keys-and-rooms](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0871-keys-and-rooms) |
+| [0876-hand-of-straights](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0876-hand-of-straights) |
 ## Design
 |  |
 | ------- |
@@ -2332,6 +2336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0473-matchsticks-to-square) |
 | [0691-stickers-to-spell-word](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0876-hand-of-straights](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0876-hand-of-straights) |
 ## Randomized
 |  |
 | ------- |
