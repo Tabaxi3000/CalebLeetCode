@@ -262,7 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0642-design-search-autocomplete-system](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0642-design-search-autocomplete-system) |
 | [0647-palindromic-substrings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0648-replace-words) |
-| [0656-coin-path](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0656-coin-path) |
+| [0657-robot-return-to-origin](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0657-robot-return-to-origin) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 ## Sliding Window
@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0650-2-keys-keyboard) |
+| [0655-print-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0655-print-binary-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -715,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0644-maximum-average-subarray-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0644-maximum-average-subarray-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0648-replace-words) |
+| [0655-print-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0655-print-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 | [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
@@ -1281,7 +1283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0537-complex-number-multiplication) |
 | [0544-output-contest-matches](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0544-output-contest-matches) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0592-fraction-addition-and-subtraction) |
-| [0656-coin-path](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0656-coin-path) |
+| [0657-robot-return-to-origin](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0657-robot-return-to-origin) |
 ## Combinatorics
 |  |
 | ------- |
