@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0841-shortest-distance-to-a-character](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0852-friends-of-appropriate-ages](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0852-friends-of-appropriate-ages) |
+| [0853-most-profit-assigning-work](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0853-most-profit-assigning-work) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -872,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0843-binary-trees-with-factors](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0843-binary-trees-with-factors) |
 | [0852-friends-of-appropriate-ages](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0852-friends-of-appropriate-ages) |
+| [0853-most-profit-assigning-work](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
@@ -927,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0797-rabbits-in-forest) |
+| [0853-most-profit-assigning-work](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0853-most-profit-assigning-work) |
 ## Sorting
 |  |
 | ------- |
@@ -999,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0807-custom-sort-string) |
 | [0843-binary-trees-with-factors](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0843-binary-trees-with-factors) |
 | [0852-friends-of-appropriate-ages](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0852-friends-of-appropriate-ages) |
+| [0853-most-profit-assigning-work](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 ## Binary Search
@@ -1054,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-k-th-smallest-prime-fraction](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0809-preimage-size-of-factorial-zeroes-function](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0809-preimage-size-of-factorial-zeroes-function) |
 | [0852-friends-of-appropriate-ages](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0852-friends-of-appropriate-ages) |
+| [0853-most-profit-assigning-work](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 ## Divide and Conquer
