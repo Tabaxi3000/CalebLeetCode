@@ -684,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0621-task-scheduler) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
+| [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 ## Greedy
 |  |
@@ -1036,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0460-lfu-cache) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
 ## Stack
 |  |
 | ------- |
@@ -1602,6 +1604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0460-lfu-cache) |
 | [0588-design-in-memory-file-system](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0588-design-in-memory-file-system) |
 | [0771-encode-n-ary-tree-to-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0771-encode-n-ary-tree-to-binary-tree) |
+| [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1804,6 +1807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0362-design-hit-counter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0362-design-hit-counter) |
 | [0379-design-phone-directory](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0379-design-phone-directory) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
 ## Monotonic Queue
 |  |
 | ------- |
