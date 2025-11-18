@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0800-letter-case-permutation) |
 | [0807-custom-sort-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0807-custom-sort-string) |
 | [0812-rotate-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0812-rotate-string) |
+| [0818-similar-rgb-color](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0818-similar-rgb-color) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 ## Sliding Window
 |  |
@@ -1157,6 +1158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0797-rabbits-in-forest) |
 | [0804-rotated-digits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0804-rotated-digits) |
 | [0809-preimage-size-of-factorial-zeroes-function](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0809-preimage-size-of-factorial-zeroes-function) |
+| [0818-similar-rgb-color](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0818-similar-rgb-color) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0903-implement-rand10-using-rand7](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
@@ -2116,6 +2118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0204-count-primes) |
 | [0479-largest-palindrome-product](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0479-largest-palindrome-product) |
 | [0681-next-closest-time](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0681-next-closest-time) |
+| [0818-similar-rgb-color](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0818-similar-rgb-color) |
 ## Number Theory
 |  |
 | ------- |
