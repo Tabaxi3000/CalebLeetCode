@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0692-top-k-frequent-words) |
 | [0694-number-of-distinct-islands](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0694-number-of-distinct-islands) |
 | [0711-number-of-distinct-islands-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0711-number-of-distinct-islands-ii) |
+| [0720-longest-word-in-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0816-design-hashset](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0817-design-hashmap) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0691-stickers-to-spell-word) |
 | [0692-top-k-frequent-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0696-count-binary-substrings) |
+| [0720-longest-word-in-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0742-to-lower-case](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0742-to-lower-case) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
@@ -772,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0720-longest-word-in-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 | [0816-design-hashset](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0817-design-hashmap) |
@@ -887,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0642-design-search-autocomplete-system](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0642-design-search-autocomplete-system) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 ## Binary Search
@@ -1084,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0692-top-k-frequent-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 ## Backtracking
 |  |
