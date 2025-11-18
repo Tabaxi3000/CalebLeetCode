@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0487-max-consecutive-ones-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0487-max-consecutive-ones-ii) |
 | [0514-freedom-trail](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0542-01-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0531-lonely-pixel-i](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0531-lonely-pixel-i) |
 | [0533-lonely-pixel-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0533-lonely-pixel-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0542-01-matrix) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 ## Greedy
@@ -1104,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0505-the-maze-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0505-the-maze-ii) |
 | [0531-lonely-pixel-i](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0531-lonely-pixel-i) |
 | [0533-lonely-pixel-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0533-lonely-pixel-ii) |
+| [0542-01-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0542-01-matrix) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 ## Monotonic Stack
 |  |
@@ -1423,6 +1426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0542-01-matrix) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0771-encode-n-ary-tree-to-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0771-encode-n-ary-tree-to-binary-tree) |
