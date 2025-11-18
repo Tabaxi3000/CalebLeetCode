@@ -799,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0740-delete-and-earn) |
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0743-closest-leaf-in-a-binary-tree) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0747-min-cost-climbing-stairs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 | [0816-design-hashset](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0817-design-hashmap) |
@@ -916,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0721-accounts-merge) |
+| [0747-min-cost-climbing-stairs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 ## Binary Search
