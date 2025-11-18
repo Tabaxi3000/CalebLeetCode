@@ -504,7 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0740-delete-and-earn) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0751-number-of-corner-rectangles](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0751-number-of-corner-rectangles) |
-| [0763-special-binary-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0763-special-binary-string) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 ## Recursion
 |  |
 | ------- |
@@ -811,7 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0751-number-of-corner-rectangles](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0751-number-of-corner-rectangles) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-employee-free-time](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0761-employee-free-time) |
-| [0763-special-binary-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0763-special-binary-string) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 | [0816-design-hashset](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0817-design-hashmap) |
