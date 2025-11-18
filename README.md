@@ -1401,7 +1401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0663-equal-tree-partition](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0663-equal-tree-partition) |
 | [0666-path-sum-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0666-path-sum-iv) |
-| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0669-trim-a-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -1480,7 +1480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0663-equal-tree-partition](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0663-equal-tree-partition) |
 | [0666-path-sum-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0666-path-sum-iv) |
-| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0669-trim-a-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
@@ -1559,7 +1559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0663-equal-tree-partition](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0663-equal-tree-partition) |
 | [0666-path-sum-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0666-path-sum-iv) |
-| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0669-trim-a-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0771-encode-n-ary-tree-to-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0771-encode-n-ary-tree-to-binary-tree) |
 ## Binary Search Tree
@@ -1586,7 +1586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
-| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0669-trim-a-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 ## Breadth-First Search
 |  |
