@@ -1178,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0460-lfu-cache) |
 | [0716-max-stack](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0716-max-stack) |
+| [0725-split-linked-list-in-parts](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0816-design-hashset](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0816-design-hashset) |
