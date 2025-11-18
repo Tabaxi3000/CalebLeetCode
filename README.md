@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0696-count-binary-substrings) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -830,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0787-sliding-puzzle) |
 | [0790-global-and-local-inversions](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0790-global-and-local-inversions) |
 | [0797-rabbits-in-forest](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0797-rabbits-in-forest) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0816-design-hashset](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
@@ -955,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-largest-plus-sign](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0769-largest-plus-sign) |
 | [0778-reorganize-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 ## Binary Search
@@ -1007,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0732-my-calendar-iii) |
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0743-closest-leaf-in-a-binary-tree) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 ## Divide and Conquer
@@ -1339,6 +1343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-largest-plus-sign](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0769-largest-plus-sign) |
 | [0778-reorganize-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 ## Merge Sort
 |  |
