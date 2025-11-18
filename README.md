@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0757-pyramid-transition-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0761-employee-free-time](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0761-employee-free-time) |
+| [0769-largest-plus-sign](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0769-largest-plus-sign) |
 | [0816-design-hashset](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0817-design-hashmap) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-ip-to-cidr](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0752-ip-to-cidr) |
 | [0757-pyramid-transition-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
+| [0769-largest-plus-sign](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0769-largest-plus-sign) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 ## Sliding Window
 |  |
@@ -866,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0769-largest-plus-sign](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0769-largest-plus-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -931,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0721-accounts-merge) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0769-largest-plus-sign](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0769-largest-plus-sign) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 ## Binary Search
@@ -1303,6 +1307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0675-cut-off-trees-for-golf-event](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0683-k-empty-slots](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0683-k-empty-slots) |
 | [0692-top-k-frequent-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0692-top-k-frequent-words) |
+| [0769-largest-plus-sign](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0769-largest-plus-sign) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 ## Merge Sort
@@ -1959,6 +1964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0692-top-k-frequent-words) |
+| [0769-largest-plus-sign](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0769-largest-plus-sign) |
 ## Data Stream
 |  |
 | ------- |
