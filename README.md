@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0681-next-closest-time](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0681-next-closest-time) |
+| [0686-repeated-string-match](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0686-repeated-string-match) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 ## Sliding Window
@@ -1213,6 +1214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0686-repeated-string-match](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0686-repeated-string-match) |
 ## Bit Manipulation
 |  |
 | ------- |
