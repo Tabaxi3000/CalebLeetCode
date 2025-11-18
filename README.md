@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0527-word-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0527-word-abbreviation) |
 | [0536-construct-binary-tree-from-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0536-construct-binary-tree-from-string) |
+| [0537-complex-number-multiplication](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0537-complex-number-multiplication) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 ## Sliding Window
 |  |
@@ -855,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0537-complex-number-multiplication](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0537-complex-number-multiplication) |
 | [0903-implement-rand10-using-rand7](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 | [0913-random-flip-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0913-random-flip-matrix) |
@@ -1128,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0498-diagonal-traverse) |
+| [0537-complex-number-multiplication](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0537-complex-number-multiplication) |
 ## Combinatorics
 |  |
 | ------- |
