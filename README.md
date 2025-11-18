@@ -1688,6 +1688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0603-consecutive-available-seats](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0603-consecutive-available-seats) |
 | [0607-sales-person](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0608-tree-node) |
+| [0612-shortest-distance-in-a-plane](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0612-shortest-distance-in-a-plane) |
 | [1181-game-play-analysis-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/1181-game-play-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/1182-game-play-analysis-iv) |
 ## Rolling Hash
