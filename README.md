@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0666-path-sum-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0666-path-sum-iv) |
 | [0676-implement-magic-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0681-next-closest-time](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0681-next-closest-time) |
+| [0690-employee-importance](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0690-employee-importance) |
 | [0913-random-flip-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0913-random-flip-matrix) |
 ## String
 |  |
@@ -745,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0682-baseball-game) |
 | [0683-k-empty-slots](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0683-k-empty-slots) |
+| [0690-employee-importance](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0690-employee-importance) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 | [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
@@ -1439,6 +1441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0685-redundant-connection-ii) |
 | [0687-longest-univalue-path](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0687-longest-univalue-path) |
+| [0690-employee-importance](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0690-employee-importance) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -1520,6 +1523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0687-longest-univalue-path) |
+| [0690-employee-importance](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0690-employee-importance) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
@@ -1682,6 +1686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0675-cut-off-trees-for-golf-event](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0684-redundant-connection](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0685-redundant-connection-ii) |
+| [0690-employee-importance](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0690-employee-importance) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0771-encode-n-ary-tree-to-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0771-encode-n-ary-tree-to-binary-tree) |
