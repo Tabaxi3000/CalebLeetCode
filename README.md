@@ -1663,6 +1663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0580-count-student-number-in-departments](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0580-count-student-number-in-departments) |
 | [0585-investments-in-2016](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0595-big-countries](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0595-big-countries) |
 | [1181-game-play-analysis-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/1181-game-play-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/1182-game-play-analysis-iv) |
 ## Rolling Hash
