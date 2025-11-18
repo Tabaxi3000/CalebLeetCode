@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0793-swap-adjacent-in-lr-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0800-letter-case-permutation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0800-letter-case-permutation) |
 | [0807-custom-sort-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0807-custom-sort-string) |
+| [0812-rotate-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0812-rotate-string) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 ## Sliding Window
 |  |
@@ -1373,6 +1374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0686-repeated-string-match) |
+| [0812-rotate-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0812-rotate-string) |
 ## Bit Manipulation
 |  |
 | ------- |
