@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0527-word-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0527-word-abbreviation) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 ## Sliding Window
 |  |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0525-contiguous-array) |
+| [0527-word-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0527-word-abbreviation) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 ## Greedy
 |  |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0484-find-permutation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0484-find-permutation) |
 | [0502-ipo](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0517-super-washing-machines) |
+| [0527-word-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0527-word-abbreviation) |
 ## Sorting
 |  |
 | ------- |
@@ -695,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0527-word-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0527-word-abbreviation) |
 ## Binary Search
 |  |
 | ------- |
@@ -861,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0425-word-squares](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0425-word-squares) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0472-concatenated-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0472-concatenated-words) |
+| [0527-word-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0527-word-abbreviation) |
 ## Backtracking
 |  |
 | ------- |
