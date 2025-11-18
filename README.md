@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 ## Sliding Window
 |  |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0455-assign-cookies) |
 | [0481-magical-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0481-magical-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0517-super-washing-machines](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0517-super-washing-machines) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 ## Greedy
 |  |
@@ -689,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Binary Search
 |  |
 | ------- |
