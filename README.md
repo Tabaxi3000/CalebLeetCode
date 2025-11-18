@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 | [0869-similar-string-groups](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0869-similar-string-groups) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0872-split-array-into-fibonacci-sequence) |
+| [0874-backspace-string-compare](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0874-backspace-string-compare) |
 ## Sliding Window
 |  |
 | ------- |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-friends-of-appropriate-ages](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0858-masking-personal-information](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0858-masking-personal-information) |
+| [0874-backspace-string-compare](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0874-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1379,6 +1381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0781-basic-calculator-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0781-basic-calculator-iv) |
+| [0874-backspace-string-compare](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0874-backspace-string-compare) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1564,6 +1567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0735-asteroid-collision) |
 | [0858-masking-personal-information](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0858-masking-personal-information) |
+| [0874-backspace-string-compare](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0874-backspace-string-compare) |
 ## Combinatorics
 |  |
 | ------- |
