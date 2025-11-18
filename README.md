@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0778-reorganize-string) |
 | [0781-basic-calculator-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0781-basic-calculator-iv) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
+| [0800-letter-case-permutation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0800-letter-case-permutation) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 ## Sliding Window
 |  |
@@ -1210,6 +1211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0757-pyramid-transition-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0787-sliding-puzzle](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0787-sliding-puzzle) |
+| [0800-letter-case-permutation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0800-letter-case-permutation) |
 | [0865-robot-room-cleaner](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0865-robot-room-cleaner) |
 ## Linked List
 |  |
@@ -1395,6 +1397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0757-pyramid-transition-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0762-find-anagram-mappings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0762-find-anagram-mappings) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0795-k-th-symbol-in-grammar) |
+| [0800-letter-case-permutation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0800-letter-case-permutation) |
 ## Matrix
 |  |
 | ------- |
