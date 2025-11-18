@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0696-count-binary-substrings) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -838,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0797-rabbits-in-forest) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0810-valid-tic-tac-toe-state](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0810-valid-tic-tac-toe-state) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0816-design-hashset](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
