@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0609-find-duplicate-file-in-system](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0609-find-duplicate-file-in-system) |
 | [0621-task-scheduler](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0621-task-scheduler) |
 | [0631-design-excel-sum-formula](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0631-design-excel-sum-formula) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0913-random-flip-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0913-random-flip-matrix) |
 ## String
 |  |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0487-max-consecutive-ones-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0487-max-consecutive-ones-ii) |
 | [0567-permutation-in-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0630-course-schedule-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0630-course-schedule-iii) |
 | [0631-design-excel-sum-formula](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0631-design-excel-sum-formula) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 | [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
@@ -731,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0625-minimum-factorization](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0625-minimum-factorization) |
 | [0630-course-schedule-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Sorting
 |  |
 | ------- |
@@ -789,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Binary Search
 |  |
 | ------- |
@@ -1113,6 +1118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Merge Sort
 |  |
 | ------- |
