@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0575-distribute-candies) |
 | [0588-design-in-memory-file-system](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0588-design-in-memory-file-system) |
+| [0594-longest-harmonious-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0913-random-flip-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0913-random-flip-matrix) |
 ## String
 |  |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0487-max-consecutive-ones-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0487-max-consecutive-ones-ii) |
 | [0567-permutation-in-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0587-erect-the-fence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0587-erect-the-fence) |
+| [0594-longest-harmonious-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 ## Greedy
@@ -756,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0588-design-in-memory-file-system](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0588-design-in-memory-file-system) |
+| [0594-longest-harmonious-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -1619,6 +1623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Data Stream
 |  |
 | ------- |
