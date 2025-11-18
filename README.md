@@ -317,7 +317,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0807-custom-sort-string) |
 | [0812-rotate-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0812-rotate-string) |
 | [0818-similar-rgb-color](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0818-similar-rgb-color) |
-| [0823-split-array-with-same-average](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0823-split-array-with-same-average) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 ## Sliding Window
 |  |
@@ -527,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-rotated-digits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0804-rotated-digits) |
 | [0806-domino-and-tromino-tiling](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
+| [0824-number-of-lines-to-write-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0824-number-of-lines-to-write-string) |
 ## Recursion
 |  |
 | ------- |
@@ -849,7 +849,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0817-design-hashmap) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0821-bricks-falling-when-hit](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0821-bricks-falling-when-hit) |
-| [0823-split-array-with-same-average](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0823-split-array-with-same-average) |
 | [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
@@ -1164,6 +1163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-rotated-digits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0804-rotated-digits) |
 | [0809-preimage-size-of-factorial-zeroes-function](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0809-preimage-size-of-factorial-zeroes-function) |
 | [0818-similar-rgb-color](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0818-similar-rgb-color) |
+| [0824-number-of-lines-to-write-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0903-implement-rand10-using-rand7](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
@@ -2293,5 +2293,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Probability and Statistics
 |  |
 | ------- |
+| [0824-number-of-lines-to-write-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0903-implement-rand10-using-rand7](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0903-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
