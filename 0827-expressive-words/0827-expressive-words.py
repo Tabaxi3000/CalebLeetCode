@@ -1,5 +1,8 @@
 class Solution:
-    def xorGame(self, nums):
-        xor = 0
-        for i in nums: xor ^= i
-        return xor == 0 or len(nums) % 2 == 0
+    def subdomainVisits(self, cpdomains):
+        counter = collections.Counter()
+        for cpdomain in cpdomains:
+            count, *domains = cpdomain.replace(" ",".").split(".")
+            for i in range(len(domains)):
+                counter[".".join(domains[i:])] += int(count)
+        return [" ".join((str(v), k)) for k, v in counter.items()]
