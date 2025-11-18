@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0552-student-attendance-record-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0552-student-attendance-record-ii) |
 | [0553-optimal-division](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0553-optimal-division) |
 | [0562-longest-line-of-consecutive-one-in-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0562-longest-line-of-consecutive-one-in-matrix) |
+| [0568-maximum-vacation-days](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0568-maximum-vacation-days) |
 ## Recursion
 |  |
 | ------- |
@@ -653,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0561-array-partition) |
 | [0562-longest-line-of-consecutive-one-in-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0562-longest-line-of-consecutive-one-in-matrix) |
 | [0565-array-nesting](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0565-array-nesting) |
+| [0568-maximum-vacation-days](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0568-maximum-vacation-days) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 ## Greedy
@@ -1139,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0533-lonely-pixel-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0533-lonely-pixel-ii) |
 | [0542-01-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0542-01-matrix) |
 | [0562-longest-line-of-consecutive-one-in-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0562-longest-line-of-consecutive-one-in-matrix) |
+| [0568-maximum-vacation-days](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0568-maximum-vacation-days) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 ## Monotonic Stack
 |  |
