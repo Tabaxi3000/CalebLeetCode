@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 ## Sliding Window
 |  |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0553-optimal-division) |
 | [0562-longest-line-of-consecutive-one-in-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0562-longest-line-of-consecutive-one-in-matrix) |
 | [0568-maximum-vacation-days](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0568-maximum-vacation-days) |
+| [0583-delete-operation-for-two-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0583-delete-operation-for-two-strings) |
 ## Recursion
 |  |
 | ------- |
