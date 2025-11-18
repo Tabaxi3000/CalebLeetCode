@@ -319,7 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0812-rotate-string) |
 | [0818-similar-rgb-color](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0818-similar-rgb-color) |
 | [0827-expressive-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0827-expressive-words) |
-| [0833-bus-routes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0833-bus-routes) |
+| [0834-ambiguous-coordinates](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0834-ambiguous-coordinates) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 ## Sliding Window
 |  |
@@ -1246,7 +1246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0787-sliding-puzzle) |
 | [0800-letter-case-permutation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0800-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0813-all-paths-from-source-to-target) |
-| [0833-bus-routes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0833-bus-routes) |
+| [0834-ambiguous-coordinates](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0834-ambiguous-coordinates) |
 | [0865-robot-room-cleaner](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0865-robot-room-cleaner) |
 ## Linked List
 |  |
@@ -2137,7 +2137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0479-largest-palindrome-product](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0479-largest-palindrome-product) |
 | [0681-next-closest-time](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0681-next-closest-time) |
 | [0818-similar-rgb-color](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0818-similar-rgb-color) |
-| [0833-bus-routes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0833-bus-routes) |
+| [0834-ambiguous-coordinates](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0834-ambiguous-coordinates) |
 ## Number Theory
 |  |
 | ------- |
