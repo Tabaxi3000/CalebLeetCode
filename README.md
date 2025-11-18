@@ -529,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0824-number-of-lines-to-write-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0824-number-of-lines-to-write-string) |
+| [0830-largest-triangle-area](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0830-largest-triangle-area) |
 ## Recursion
 |  |
 | ------- |
@@ -853,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-bricks-falling-when-hit](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0821-bricks-falling-when-hit) |
 | [0827-expressive-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0827-expressive-words) |
 | [0829-subdomain-visit-count](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0829-subdomain-visit-count) |
+| [0830-largest-triangle-area](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0830-largest-triangle-area) |
 | [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
@@ -2167,6 +2169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0732-my-calendar-iii) |
 | [0814-smallest-rotation-with-highest-score](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0814-smallest-rotation-with-highest-score) |
+| [0830-largest-triangle-area](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0830-largest-triangle-area) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 ## Quickselect
 |  |
