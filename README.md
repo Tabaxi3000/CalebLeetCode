@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0546-remove-boxes) |
+| [0552-student-attendance-record-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0552-student-attendance-record-ii) |
 ## Recursion
 |  |
 | ------- |
