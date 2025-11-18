@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-largest-plus-sign](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0769-largest-plus-sign) |
 | [0778-reorganize-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0778-reorganize-string) |
 | [0781-basic-calculator-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0781-basic-calculator-iv) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 ## Sliding Window
 |  |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0696-count-binary-substrings) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
 ## Dynamic Programming
 |  |
 | ------- |
