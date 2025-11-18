@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0648-replace-words) |
 | [0657-robot-return-to-origin](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0657-robot-return-to-origin) |
+| [0664-strange-printer](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0664-strange-printer) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 ## Sliding Window
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0650-2-keys-keyboard) |
 | [0655-print-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0655-print-binary-tree) |
+| [0664-strange-printer](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0664-strange-printer) |
 ## Recursion
 |  |
 | ------- |
