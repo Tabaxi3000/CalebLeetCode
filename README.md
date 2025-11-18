@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0537-complex-number-multiplication) |
 | [0541-reverse-string-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0541-reverse-string-ii) |
 | [0544-output-contest-matches](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0544-output-contest-matches) |
+| [0551-student-attendance-record-i](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0551-student-attendance-record-i) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 ## Sliding Window
 |  |
