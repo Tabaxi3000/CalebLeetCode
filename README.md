@@ -473,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0688-knight-probability-in-chessboard) |
 | [0691-stickers-to-spell-word](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0691-stickers-to-spell-word) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Recursion
 |  |
 | ------- |
@@ -757,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0690-employee-importance) |
 | [0691-stickers-to-spell-word](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0691-stickers-to-spell-word) |
 | [0692-top-k-frequent-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0692-top-k-frequent-words) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 | [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
@@ -1103,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0679-24-game) |
 | [0681-next-closest-time](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0681-next-closest-time) |
 | [0691-stickers-to-spell-word](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0691-stickers-to-spell-word) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0865-robot-room-cleaner](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0865-robot-room-cleaner) |
 ## Linked List
 |  |
@@ -1269,6 +1272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0477-total-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0691-stickers-to-spell-word](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0691-stickers-to-spell-word) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Matrix
 |  |
 | ------- |
@@ -1368,6 +1372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0397-integer-replacement) |
 | [0546-remove-boxes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0546-remove-boxes) |
 | [0691-stickers-to-spell-word](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0691-stickers-to-spell-word) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -2037,6 +2042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0351-android-unlock-patterns](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0351-android-unlock-patterns) |
 | [0473-matchsticks-to-square](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0473-matchsticks-to-square) |
 | [0691-stickers-to-spell-word](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0691-stickers-to-spell-word) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Randomized
 |  |
 | ------- |
