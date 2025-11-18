@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0635-design-log-storage-system](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0635-design-log-storage-system) |
 | [0639-decode-ways-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0639-decode-ways-ii) |
 | [0642-design-search-autocomplete-system](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0642-design-search-autocomplete-system) |
+| [0647-palindromic-substrings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0647-palindromic-substrings) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 ## Sliding Window
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0611-valid-triangle-number) |
+| [0647-palindromic-substrings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0634-find-the-derangement-of-an-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0634-find-the-derangement-of-an-array) |
 | [0639-decode-ways-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0639-decode-ways-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0647-palindromic-substrings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0647-palindromic-substrings) |
 ## Recursion
 |  |
 | ------- |
