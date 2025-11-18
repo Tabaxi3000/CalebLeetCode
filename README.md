@@ -496,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0730-count-different-palindromic-subsequences) |
 | [0740-delete-and-earn](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0740-delete-and-earn) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Recursion
 |  |
 | ------- |
@@ -797,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0740-delete-and-earn) |
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0743-closest-leaf-in-a-binary-tree) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 | [0816-design-hashset](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0817-design-hashmap) |
