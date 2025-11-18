@@ -531,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0824-number-of-lines-to-write-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0830-largest-triangle-area](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0830-largest-triangle-area) |
+| [0836-race-car](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0836-race-car) |
 ## Recursion
 |  |
 | ------- |
