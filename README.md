@@ -914,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0573-squirrel-simulation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0573-squirrel-simulation) |
 | [0587-erect-the-fence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0587-erect-the-fence) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0593-valid-square](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0593-valid-square) |
 | [0903-implement-rand10-using-rand7](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 | [0913-random-flip-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0913-random-flip-matrix) |
@@ -1586,6 +1587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0335-self-crossing) |
 | [0391-perfect-rectangle](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0391-perfect-rectangle) |
 | [0587-erect-the-fence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0587-erect-the-fence) |
+| [0593-valid-square](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0593-valid-square) |
 ## Interactive
 |  |
 | ------- |
