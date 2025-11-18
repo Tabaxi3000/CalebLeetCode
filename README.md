@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0554-brick-wall) |
 | [0567-permutation-in-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0575-distribute-candies) |
+| [0588-design-in-memory-file-system](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0588-design-in-memory-file-system) |
 | [0913-random-flip-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0913-random-flip-matrix) |
 ## String
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [0588-design-in-memory-file-system](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0588-design-in-memory-file-system) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 ## Sliding Window
 |  |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0527-word-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0527-word-abbreviation) |
 | [0561-array-partition](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0588-design-in-memory-file-system](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0588-design-in-memory-file-system) |
 ## Binary Search
 |  |
 | ------- |
@@ -927,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0472-concatenated-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0472-concatenated-words) |
 | [0527-word-abbreviation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0527-word-abbreviation) |
+| [0588-design-in-memory-file-system](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0588-design-in-memory-file-system) |
 ## Backtracking
 |  |
 | ------- |
@@ -1553,6 +1557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0432-all-oone-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0460-lfu-cache) |
+| [0588-design-in-memory-file-system](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0588-design-in-memory-file-system) |
 | [0771-encode-n-ary-tree-to-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0771-encode-n-ary-tree-to-binary-tree) |
 ## Doubly-Linked List
 |  |
