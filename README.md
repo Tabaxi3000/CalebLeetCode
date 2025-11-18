@@ -655,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0562-longest-line-of-consecutive-one-in-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0562-longest-line-of-consecutive-one-in-matrix) |
 | [0565-array-nesting](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0565-array-nesting) |
 | [0568-maximum-vacation-days](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0568-maximum-vacation-days) |
+| [0573-squirrel-simulation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0573-squirrel-simulation) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 ## Greedy
@@ -896,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0537-complex-number-multiplication) |
 | [0553-optimal-division](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0553-optimal-division) |
 | [0564-find-the-closest-palindrome](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0564-find-the-closest-palindrome) |
+| [0573-squirrel-simulation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0573-squirrel-simulation) |
 | [0903-implement-rand10-using-rand7](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 | [0913-random-flip-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0913-random-flip-matrix) |
