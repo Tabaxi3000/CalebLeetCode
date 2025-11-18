@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-goat-latin](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0851-goat-latin) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 | [0869-similar-string-groups](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0869-similar-string-groups) |
+| [0872-split-array-into-fibonacci-sequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0872-split-array-into-fibonacci-sequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1283,6 +1284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0834-ambiguous-coordinates](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0834-ambiguous-coordinates) |
 | [0865-robot-room-cleaner](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0865-robot-room-cleaner) |
+| [0872-split-array-into-fibonacci-sequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0872-split-array-into-fibonacci-sequence) |
 ## Linked List
 |  |
 | ------- |
