@@ -730,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0666-path-sum-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0666-path-sum-iv) |
 | [0667-beautiful-arrangement-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0667-beautiful-arrangement-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 | [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
@@ -1175,6 +1176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0642-design-search-autocomplete-system](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0642-design-search-autocomplete-system) |
 | [0658-find-k-closest-elements](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 ## Merge Sort
 |  |
@@ -1270,6 +1272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0568-maximum-vacation-days](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0568-maximum-vacation-days) |
 | [0631-design-excel-sum-formula](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0631-design-excel-sum-formula) |
 | [0661-image-smoother](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0661-image-smoother) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 ## Monotonic Stack
 |  |
@@ -1645,6 +1648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0771-encode-n-ary-tree-to-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0771-encode-n-ary-tree-to-binary-tree) |
