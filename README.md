@@ -774,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0670-maximum-swap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0670-maximum-swap) |
 ## Sorting
 |  |
 | ------- |
@@ -1001,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0634-find-the-derangement-of-an-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0634-find-the-derangement-of-an-array) |
 | [0650-2-keys-keyboard](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0650-2-keys-keyboard) |
 | [0667-beautiful-arrangement-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0667-beautiful-arrangement-ii) |
+| [0670-maximum-swap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0670-maximum-swap) |
 | [0903-implement-rand10-using-rand7](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 | [0913-random-flip-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0913-random-flip-matrix) |
