@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0666-path-sum-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0666-path-sum-iv) |
+| [0676-implement-magic-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0913-random-flip-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0913-random-flip-matrix) |
 ## String
 |  |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0648-replace-words) |
 | [0657-robot-return-to-origin](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0657-robot-return-to-origin) |
 | [0664-strange-printer](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0664-strange-printer) |
+| [0676-implement-magic-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 ## Sliding Window
@@ -1028,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0588-design-in-memory-file-system](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0588-design-in-memory-file-system) |
 | [0642-design-search-autocomplete-system](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0642-design-search-autocomplete-system) |
 | [0648-replace-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 ## Backtracking
 |  |
@@ -1410,6 +1413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0666-path-sum-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0666-path-sum-iv) |
 | [0669-trim-a-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0676-implement-magic-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -1721,6 +1725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0631-design-excel-sum-formula](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0631-design-excel-sum-formula) |
 | [0635-design-log-storage-system](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0635-design-log-storage-system) |
 | [0642-design-search-autocomplete-system](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0642-design-search-autocomplete-system) |
+| [0676-implement-magic-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0771-encode-n-ary-tree-to-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0771-encode-n-ary-tree-to-binary-tree) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
