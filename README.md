@@ -792,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0731-my-calendar-ii) |
 | [0734-sentence-similarity](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0734-sentence-similarity) |
 | [0735-asteroid-collision](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0735-asteroid-collision) |
+| [0738-monotone-increasing-digits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0738-monotone-increasing-digits) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 | [0816-design-hashset](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0817-design-hashmap) |
@@ -1244,6 +1245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0716-max-stack](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0716-max-stack) |
 | [0735-asteroid-collision](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0735-asteroid-collision) |
 | [0736-parse-lisp-expression](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0736-parse-lisp-expression) |
+| [0738-monotone-increasing-digits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0738-monotone-increasing-digits) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -1391,6 +1393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0738-monotone-increasing-digits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0738-monotone-increasing-digits) |
 ## Simulation
 |  |
 | ------- |
