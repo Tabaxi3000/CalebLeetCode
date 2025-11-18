@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-expressive-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0827-expressive-words) |
 | [0837-most-common-word](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0837-most-common-word) |
 | [0839-short-encoding-of-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0839-short-encoding-of-words) |
+| [0843-binary-trees-with-factors](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0843-binary-trees-with-factors) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0913-random-flip-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0913-random-flip-matrix) |
 ## String
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-number-of-lines-to-write-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0830-largest-triangle-area](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0830-largest-triangle-area) |
 | [0836-race-car](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0836-race-car) |
+| [0843-binary-trees-with-factors](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0843-binary-trees-with-factors) |
 ## Recursion
 |  |
 | ------- |
@@ -866,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0837-most-common-word) |
 | [0839-short-encoding-of-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0839-short-encoding-of-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0841-shortest-distance-to-a-character) |
+| [0843-binary-trees-with-factors](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0843-binary-trees-with-factors) |
 | [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
@@ -991,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0807-custom-sort-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0807-custom-sort-string) |
+| [0843-binary-trees-with-factors](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0843-binary-trees-with-factors) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 ## Binary Search
