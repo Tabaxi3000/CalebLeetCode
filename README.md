@@ -525,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0804-rotated-digits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0804-rotated-digits) |
 | [0806-domino-and-tromino-tiling](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0806-domino-and-tromino-tiling) |
+| [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 ## Recursion
 |  |
 | ------- |
@@ -845,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-smallest-rotation-with-highest-score](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0814-smallest-rotation-with-highest-score) |
 | [0816-design-hashset](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0817-design-hashmap) |
+| [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
