@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0542-01-matrix) |
+| [0546-remove-boxes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0546-remove-boxes) |
 ## Recursion
 |  |
 | ------- |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0533-lonely-pixel-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0533-lonely-pixel-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0542-01-matrix) |
+| [0546-remove-boxes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0546-remove-boxes) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 ## Greedy
@@ -1156,6 +1158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0294-flip-game-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0294-flip-game-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0397-integer-replacement) |
+| [0546-remove-boxes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0546-remove-boxes) |
 ## Depth-First Search
 |  |
 | ------- |
