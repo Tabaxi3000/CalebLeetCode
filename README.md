@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0869-similar-string-groups) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [0874-backspace-string-compare](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0874-backspace-string-compare) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0877-shortest-path-visiting-all-nodes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -887,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0858-masking-personal-information](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0858-masking-personal-information) |
 | [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
 | [0869-similar-string-groups](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0869-similar-string-groups) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 ## Greedy
@@ -2232,6 +2234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0732-my-calendar-iii) |
 | [0814-smallest-rotation-with-highest-score](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0814-smallest-rotation-with-highest-score) |
 | [0830-largest-triangle-area](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0830-largest-triangle-area) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 ## Quickselect
 |  |
