@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0588-design-in-memory-file-system](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0588-design-in-memory-file-system) |
+| [0591-tag-validator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0591-tag-validator) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 ## Sliding Window
 |  |
@@ -1047,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0503-next-greater-element-ii) |
 | [0536-construct-binary-tree-from-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0536-construct-binary-tree-from-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0591-tag-validator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0591-tag-validator) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
