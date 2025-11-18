@@ -841,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-k-th-smallest-prime-fraction](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0810-valid-tic-tac-toe-state](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0810-valid-tic-tac-toe-state) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
+| [0814-smallest-rotation-with-highest-score](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0814-smallest-rotation-with-highest-score) |
 | [0816-design-hashset](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
@@ -2148,6 +2149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0732-my-calendar-iii) |
+| [0814-smallest-rotation-with-highest-score](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0814-smallest-rotation-with-highest-score) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 ## Quickselect
 |  |
