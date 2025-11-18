@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/split-array-with-equal-sum">548. Split Array with Equal Sum</a></h2><h3>Hard</h3><hr><p>Given an integer array <code>nums</code> of length <code>n</code>, return <code>true</code> if there is a triplet <code>(i, j, k)</code> which satisfies the following conditions:</p>
+<h2><a href="https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/">548. Split Array with Equal Sum</a></h2><h3>Hard</h3><hr><p>Given an integer array <code>nums</code> of length <code>n</code>, return <code>true</code> if there is a triplet <code>(i, j, k)</code> which satisfies the following conditions:</p>
 
 <ul>
 	<li><code>0 &lt; i, i + 1 &lt; j, j + 1 &lt; k &lt; n - 1</code></li>
