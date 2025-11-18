@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0525-contiguous-array) |
 | [0531-lonely-pixel-i](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0531-lonely-pixel-i) |
 | [0533-lonely-pixel-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0533-lonely-pixel-ii) |
+| [0548-split-array-with-equal-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0548-split-array-with-equal-sum) |
 | [0913-random-flip-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0913-random-flip-matrix) |
 ## String
 |  |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0546-remove-boxes) |
+| [0548-split-array-with-equal-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0548-split-array-with-equal-sum) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 ## Greedy
@@ -1619,6 +1621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0525-contiguous-array) |
+| [0548-split-array-with-equal-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0548-split-array-with-equal-sum) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 ## Quickselect
 |  |
