@@ -889,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
 | [0869-similar-string-groups](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0869-similar-string-groups) |
 | [0878-shifting-letters](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0878-shifting-letters) |
+| [0880-rectangle-area-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0880-rectangle-area-ii) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 ## Greedy
@@ -2269,11 +2270,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0732-my-calendar-iii) |
+| [0880-rectangle-area-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0880-rectangle-area-ii) |
 ## Line Sweep
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0218-the-skyline-problem) |
 | [0391-perfect-rectangle](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0391-perfect-rectangle) |
+| [0880-rectangle-area-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0880-rectangle-area-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -2291,6 +2294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0732-my-calendar-iii) |
+| [0880-rectangle-area-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0880-rectangle-area-ii) |
 ## Queue
 |  |
 | ------- |
