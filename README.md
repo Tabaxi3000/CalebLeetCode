@@ -1196,6 +1196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0818-similar-rgb-color](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0818-similar-rgb-color) |
 | [0824-number-of-lines-to-write-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0829-subdomain-visit-count](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0829-subdomain-visit-count) |
+| [0856-consecutive-numbers-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0856-consecutive-numbers-sum) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0903-implement-rand10-using-rand7](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
@@ -2164,6 +2165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0681-next-closest-time](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0681-next-closest-time) |
 | [0818-similar-rgb-color](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0818-similar-rgb-color) |
 | [0834-ambiguous-coordinates](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0834-ambiguous-coordinates) |
+| [0856-consecutive-numbers-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0856-consecutive-numbers-sum) |
 ## Number Theory
 |  |
 | ------- |
