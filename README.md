@@ -727,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0661-image-smoother) |
 | [0665-non-decreasing-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0665-non-decreasing-array) |
 | [0666-path-sum-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0666-path-sum-iv) |
+| [0667-beautiful-arrangement-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0667-beautiful-arrangement-ii) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 | [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
@@ -999,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0625-minimum-factorization](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0625-minimum-factorization) |
 | [0634-find-the-derangement-of-an-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0634-find-the-derangement-of-an-array) |
 | [0650-2-keys-keyboard](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0650-2-keys-keyboard) |
+| [0667-beautiful-arrangement-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0667-beautiful-arrangement-ii) |
 | [0903-implement-rand10-using-rand7](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 | [0913-random-flip-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0913-random-flip-matrix) |
