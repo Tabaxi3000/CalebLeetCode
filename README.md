@@ -648,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0555-split-concatenated-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0555-split-concatenated-strings) |
 | [0561-array-partition](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0561-array-partition) |
 | [0562-longest-line-of-consecutive-one-in-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0562-longest-line-of-consecutive-one-in-matrix) |
+| [0565-array-nesting](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0565-array-nesting) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 ## Greedy
@@ -1254,6 +1255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0536-construct-binary-tree-from-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0536-construct-binary-tree-from-string) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0565-array-nesting](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0565-array-nesting) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
