@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0721-accounts-merge) |
 | [0734-sentence-similarity](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0734-sentence-similarity) |
 | [0736-parse-lisp-expression](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0736-parse-lisp-expression) |
+| [0740-delete-and-earn](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0740-delete-and-earn) |
 | [0816-design-hashset](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0817-design-hashmap) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0730-count-different-palindromic-subsequences) |
+| [0740-delete-and-earn](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0740-delete-and-earn) |
 ## Recursion
 |  |
 | ------- |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0734-sentence-similarity](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0734-sentence-similarity) |
 | [0735-asteroid-collision](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0740-delete-and-earn) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 | [0816-design-hashset](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0817-design-hashmap) |
