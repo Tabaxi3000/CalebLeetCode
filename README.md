@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0562-longest-line-of-consecutive-one-in-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0562-longest-line-of-consecutive-one-in-matrix) |
 | [0568-maximum-vacation-days](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0568-maximum-vacation-days) |
 | [0583-delete-operation-for-two-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 ## Recursion
 |  |
 | ------- |
