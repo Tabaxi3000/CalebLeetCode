@@ -1404,6 +1404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0663-equal-tree-partition](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0663-equal-tree-partition) |
 | [0666-path-sum-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0666-path-sum-iv) |
 | [0669-trim-a-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -1483,6 +1484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0663-equal-tree-partition](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0663-equal-tree-partition) |
 | [0666-path-sum-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0666-path-sum-iv) |
 | [0669-trim-a-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
@@ -1562,6 +1564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0663-equal-tree-partition](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0663-equal-tree-partition) |
 | [0666-path-sum-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0666-path-sum-iv) |
 | [0669-trim-a-binary-search-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0771-encode-n-ary-tree-to-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0771-encode-n-ary-tree-to-binary-tree) |
 ## Binary Search Tree
