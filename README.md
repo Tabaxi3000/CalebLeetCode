@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0525-contiguous-array) |
 | [0913-random-flip-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0913-random-flip-matrix) |
 ## String
 |  |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0525-contiguous-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0525-contiguous-array) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 ## Greedy
 |  |
@@ -1570,6 +1572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0370-range-addition](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0370-range-addition) |
 | [0410-split-array-largest-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0525-contiguous-array) |
 ## Quickselect
 |  |
 | ------- |
