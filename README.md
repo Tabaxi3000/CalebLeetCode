@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0629-k-inverse-pairs-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0629-k-inverse-pairs-array) |
+| [0634-find-the-derangement-of-an-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0634-find-the-derangement-of-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -955,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0593-valid-square](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0593-valid-square) |
 | [0625-minimum-factorization](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0625-minimum-factorization) |
+| [0634-find-the-derangement-of-an-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0634-find-the-derangement-of-an-array) |
 | [0903-implement-rand10-using-rand7](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 | [0913-random-flip-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0913-random-flip-matrix) |
@@ -1251,6 +1253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0062-unique-paths) |
 | [0458-poor-pigs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0458-poor-pigs) |
+| [0634-find-the-derangement-of-an-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0634-find-the-derangement-of-an-array) |
 ## Memoization
 |  |
 | ------- |
