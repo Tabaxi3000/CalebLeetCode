@@ -1250,6 +1250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0771-encode-n-ary-tree-to-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0771-encode-n-ary-tree-to-binary-tree) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Tree
 |  |
 | ------- |
@@ -1317,6 +1318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-encode-n-ary-tree-to-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0771-encode-n-ary-tree-to-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 | [0773-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0773-logical-or-of-two-binary-grids-represented-as-quad-trees) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1452,6 +1454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0771-encode-n-ary-tree-to-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0771-encode-n-ary-tree-to-binary-tree) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Union Find
 |  |
 | ------- |
