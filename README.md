@@ -519,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0804-rotated-digits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0804-rotated-digits) |
+| [0806-domino-and-tromino-tiling](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0806-domino-and-tromino-tiling) |
 ## Recursion
 |  |
 | ------- |
