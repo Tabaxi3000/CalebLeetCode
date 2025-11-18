@@ -796,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0740-delete-and-earn) |
+| [0743-closest-leaf-in-a-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0743-closest-leaf-in-a-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 | [0816-design-hashset](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0817-design-hashmap) |
@@ -964,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0732-my-calendar-iii) |
+| [0743-closest-leaf-in-a-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0743-closest-leaf-in-a-binary-tree) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 ## Divide and Conquer
