@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0666-path-sum-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0666-path-sum-iv) |
 | [0913-random-flip-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0913-random-flip-matrix) |
 ## String
 |  |
@@ -725,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0661-image-smoother](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0661-image-smoother) |
 | [0665-non-decreasing-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0665-non-decreasing-array) |
+| [0666-path-sum-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0666-path-sum-iv) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 | [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
@@ -1396,6 +1398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0663-equal-tree-partition](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0663-equal-tree-partition) |
+| [0666-path-sum-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0666-path-sum-iv) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -1473,6 +1476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0663-equal-tree-partition](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0663-equal-tree-partition) |
+| [0666-path-sum-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0666-path-sum-iv) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
@@ -1550,6 +1554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0663-equal-tree-partition](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0663-equal-tree-partition) |
+| [0666-path-sum-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0666-path-sum-iv) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0771-encode-n-ary-tree-to-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0771-encode-n-ary-tree-to-binary-tree) |
 ## Binary Search Tree
