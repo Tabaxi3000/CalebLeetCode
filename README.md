@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0683-k-empty-slots](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0683-k-empty-slots) |
 ## Two Pointers
 |  |
 | ------- |
@@ -741,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0675-cut-off-trees-for-golf-event](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0679-24-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0682-baseball-game) |
+| [0683-k-empty-slots](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0683-k-empty-slots) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 | [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
@@ -1195,6 +1197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0683-k-empty-slots](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0683-k-empty-slots) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 ## Merge Sort
 |  |
@@ -1916,6 +1919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0683-k-empty-slots](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0683-k-empty-slots) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1927,6 +1931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0683-k-empty-slots](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0683-k-empty-slots) |
 ## Line Sweep
 |  |
 | ------- |
@@ -1944,6 +1949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0493-reverse-pairs) |
 | [0635-design-log-storage-system](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0635-design-log-storage-system) |
+| [0683-k-empty-slots](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0683-k-empty-slots) |
 ## Queue
 |  |
 | ------- |
@@ -1957,11 +1963,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0362-design-hit-counter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0362-design-hit-counter) |
 | [0379-design-phone-directory](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0379-design-phone-directory) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0683-k-empty-slots](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0683-k-empty-slots) |
 | [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0239-sliding-window-maximum) |
+| [0683-k-empty-slots](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0683-k-empty-slots) |
 ## Counting Sort
 |  |
 | ------- |
