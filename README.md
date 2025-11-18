@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-largest-plus-sign](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0769-largest-plus-sign) |
 | [0778-reorganize-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0778-reorganize-string) |
 | [0781-basic-calculator-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0781-basic-calculator-iv) |
+| [0797-rabbits-in-forest](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0817-design-hashmap) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
@@ -827,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0787-sliding-puzzle) |
 | [0790-global-and-local-inversions](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0790-global-and-local-inversions) |
+| [0797-rabbits-in-forest](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
@@ -883,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-largest-plus-sign](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0769-largest-plus-sign) |
 | [0778-reorganize-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0797-rabbits-in-forest) |
 ## Sorting
 |  |
 | ------- |
@@ -1134,6 +1137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0790-global-and-local-inversions](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0790-global-and-local-inversions) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0796-reaching-points](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0796-reaching-points) |
+| [0797-rabbits-in-forest](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0797-rabbits-in-forest) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0903-implement-rand10-using-rand7](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
