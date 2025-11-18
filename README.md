@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0548-split-array-with-equal-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0548-split-array-with-equal-sum) |
 | [0554-brick-wall](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0554-brick-wall) |
 | [0567-permutation-in-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0575-distribute-candies) |
 | [0913-random-flip-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0913-random-flip-matrix) |
 ## String
 |  |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0565-array-nesting](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0565-array-nesting) |
 | [0568-maximum-vacation-days](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0568-maximum-vacation-days) |
 | [0573-squirrel-simulation](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0573-squirrel-simulation) |
+| [0575-distribute-candies](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0575-distribute-candies) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 ## Greedy
