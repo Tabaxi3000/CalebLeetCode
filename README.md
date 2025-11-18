@@ -685,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0624-maximum-distance-in-arrays) |
+| [0630-course-schedule-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0630-course-schedule-iii) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 | [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0625-minimum-factorization](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0625-minimum-factorization) |
+| [0630-course-schedule-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0630-course-schedule-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -783,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0630-course-schedule-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -1106,6 +1109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0505-the-maze-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0505-the-maze-ii) |
 | [0506-relative-ranks](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0630-course-schedule-iii) |
 ## Merge Sort
 |  |
 | ------- |
