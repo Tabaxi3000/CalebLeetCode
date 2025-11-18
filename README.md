@@ -1625,6 +1625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0571-find-median-given-frequency-of-numbers](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0571-find-median-given-frequency-of-numbers) |
 | [0574-winning-candidate](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0574-winning-candidate) |
 | [0577-employee-bonus](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0577-employee-bonus) |
+| [0579-find-cumulative-salary-of-an-employee](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0579-find-cumulative-salary-of-an-employee) |
 | [1181-game-play-analysis-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/1181-game-play-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/1182-game-play-analysis-iv) |
 ## Rolling Hash
