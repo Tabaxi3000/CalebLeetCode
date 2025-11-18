@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0692-top-k-frequent-words) |
 | [0694-number-of-distinct-islands](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0694-number-of-distinct-islands) |
 | [0816-design-hashset](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0817-design-hashmap) |
 | [0913-random-flip-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0913-random-flip-matrix) |
 ## String
 |  |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 | [0816-design-hashset](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 ## Greedy
@@ -1148,6 +1150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0816-design-hashset](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
 ## Stack
 |  |
@@ -1804,6 +1807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-encode-n-ary-tree-to-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0771-encode-n-ary-tree-to-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
 ## Doubly-Linked List
@@ -1929,6 +1933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0694-number-of-distinct-islands](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0694-number-of-distinct-islands) |
 | [0816-design-hashset](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0817-design-hashmap) |
 ## Enumeration
 |  |
 | ------- |
