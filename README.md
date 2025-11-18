@@ -740,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0679-24-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0679-24-game) |
+| [0682-baseball-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0682-baseball-game) |
 | [0772-construct-quad-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0772-construct-quad-tree) |
 | [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
@@ -1163,6 +1164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0591-tag-validator](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0591-tag-validator) |
 | [0678-valid-parenthesis-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0682-baseball-game) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -1324,6 +1326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0544-output-contest-matches](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0544-output-contest-matches) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0657-robot-return-to-origin](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0682-baseball-game) |
 ## Combinatorics
 |  |
 | ------- |
