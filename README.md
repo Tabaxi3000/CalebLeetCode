@@ -567,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0876-hand-of-straights) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0909-stone-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0909-stone-game) |
+| [0911-profitable-schemes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0911-profitable-schemes) |
 ## Recursion
 |  |
 | ------- |
@@ -911,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0909-stone-game) |
+| [0911-profitable-schemes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0911-profitable-schemes) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 ## Greedy
 |  |
