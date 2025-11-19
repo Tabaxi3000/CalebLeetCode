@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0843-binary-trees-with-factors](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0843-binary-trees-with-factors) |
 | [0869-similar-string-groups](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0869-similar-string-groups) |
 | [0884-k-similar-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0884-k-similar-strings) |
+| [0889-buddy-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0889-buddy-strings) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0913-random-flip-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0913-random-flip-matrix) |
 ## String
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0878-shifting-letters) |
 | [0884-k-similar-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0884-k-similar-strings) |
 | [0886-score-of-parentheses](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0886-score-of-parentheses) |
+| [0889-buddy-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0889-buddy-strings) |
 ## Sliding Window
 |  |
 | ------- |
