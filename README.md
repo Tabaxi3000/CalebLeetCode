@@ -574,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0909-stone-game) |
 | [0911-profitable-schemes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0911-profitable-schemes) |
 | [0930-all-possible-full-binary-trees](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0930-all-possible-full-binary-trees) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 ## Recursion
 |  |
 | ------- |
@@ -927,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0928-surface-area-of-3d-shapes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0928-surface-area-of-3d-shapes) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0932-monotonic-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0932-monotonic-array) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 ## Greedy
 |  |
 | ------- |
@@ -1537,6 +1539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0858-masking-personal-information](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0858-masking-personal-information) |
 | [0876-hand-of-straights](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0876-hand-of-straights) |
 | [0899-binary-gap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0899-binary-gap) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 ## Matrix
 |  |
 | ------- |
