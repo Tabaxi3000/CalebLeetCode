@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0913-random-flip-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0913-random-flip-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0921-spiral-matrix-iii) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0929-groups-of-special-equivalent-strings) |
 ## String
 |  |
 | ------- |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-k-similar-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0884-k-similar-strings) |
 | [0886-score-of-parentheses](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0886-score-of-parentheses) |
 | [0889-buddy-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0889-buddy-strings) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0929-groups-of-special-equivalent-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -920,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0919-projection-area-of-3d-shapes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0921-spiral-matrix-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0928-surface-area-of-3d-shapes) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0929-groups-of-special-equivalent-strings) |
 ## Greedy
 |  |
 | ------- |
@@ -1053,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0901-advantage-shuffle](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0901-advantage-shuffle) |
 | [0917-boats-to-save-people](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0917-boats-to-save-people) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0929-groups-of-special-equivalent-strings) |
 ## Binary Search
 |  |
 | ------- |
