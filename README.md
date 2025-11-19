@@ -895,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0869-similar-string-groups) |
 | [0878-shifting-letters](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0878-shifting-letters) |
 | [0880-rectangle-area-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0880-rectangle-area-ii) |
+| [0890-lemonade-change](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0890-lemonade-change) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 ## Greedy
@@ -950,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0797-rabbits-in-forest) |
 | [0853-most-profit-assigning-work](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0853-most-profit-assigning-work) |
+| [0890-lemonade-change](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0890-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
