@@ -916,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0911-profitable-schemes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0911-profitable-schemes) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 | [0917-boats-to-save-people](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0917-boats-to-save-people) |
+| [0919-projection-area-of-3d-shapes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 ## Greedy
 |  |
 | ------- |
@@ -1574,6 +1575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-bricks-falling-when-hit](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0821-bricks-falling-when-hit) |
 | [0858-masking-personal-information](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0858-masking-personal-information) |
 | [0898-transpose-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0898-transpose-matrix) |
+| [0919-projection-area-of-3d-shapes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1615,6 +1617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0858-masking-personal-information](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0858-masking-personal-information) |
 | [0874-backspace-string-compare](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0898-transpose-matrix) |
+| [0919-projection-area-of-3d-shapes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 ## Combinatorics
 |  |
 | ------- |
