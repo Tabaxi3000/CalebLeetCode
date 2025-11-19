@@ -1100,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0907-koko-eating-bananas](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0907-koko-eating-bananas) |
+| [0910-nth-magical-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0910-nth-magical-number) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 ## Divide and Conquer
 |  |
@@ -1242,6 +1243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0903-implement-rand10-using-rand7](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [0909-stone-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0909-stone-game) |
+| [0910-nth-magical-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0910-nth-magical-number) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 | [0913-random-flip-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0913-random-flip-matrix) |
 ## Trie
