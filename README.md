@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0913-random-flip-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0913-random-flip-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0929-groups-of-special-equivalent-strings) |
+| [0931-maximum-frequency-stack](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0931-maximum-frequency-stack) |
 ## String
 |  |
 | ------- |
@@ -1435,6 +1436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-basic-calculator-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0781-basic-calculator-iv) |
 | [0874-backspace-string-compare](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0886-score-of-parentheses) |
+| [0931-maximum-frequency-stack](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0931-maximum-frequency-stack) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -2130,6 +2132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
 | [0885-exam-room](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0885-exam-room) |
+| [0931-maximum-frequency-stack](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0931-maximum-frequency-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -2372,6 +2375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0732-my-calendar-iii) |
 | [0880-rectangle-area-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0880-rectangle-area-ii) |
 | [0885-exam-room](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0885-exam-room) |
+| [0931-maximum-frequency-stack](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0931-maximum-frequency-stack) |
 ## Queue
 |  |
 | ------- |
