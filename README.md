@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0864-image-overlap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0864-image-overlap) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -896,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0878-shifting-letters) |
 | [0880-rectangle-area-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0880-rectangle-area-ii) |
 | [0890-lemonade-change](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0890-lemonade-change) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 ## Greedy
@@ -1081,6 +1083,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0809-preimage-size-of-factorial-zeroes-function](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0809-preimage-size-of-factorial-zeroes-function) |
 | [0852-friends-of-appropriate-ages](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0853-most-profit-assigning-work) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 ## Divide and Conquer
@@ -1431,6 +1434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0859-design-circular-deque](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0859-design-circular-deque) |
 | [0885-exam-room](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0885-exam-room) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Merge Sort
 |  |
 | ------- |
@@ -2250,6 +2254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-smallest-rotation-with-highest-score](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0814-smallest-rotation-with-highest-score) |
 | [0830-largest-triangle-area](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0830-largest-triangle-area) |
 | [0878-shifting-letters](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0878-shifting-letters) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 ## Quickselect
 |  |
@@ -2325,11 +2330,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0683-k-empty-slots](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0683-k-empty-slots) |
 | [0860-design-circular-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0860-design-circular-queue) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0239-sliding-window-maximum) |
 | [0683-k-empty-slots](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0683-k-empty-slots) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Counting Sort
 |  |
 | ------- |
