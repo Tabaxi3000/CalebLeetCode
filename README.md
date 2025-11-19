@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0874-backspace-string-compare) |
 | [0878-shifting-letters](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0878-shifting-letters) |
 | [0884-k-similar-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0884-k-similar-strings) |
+| [0886-score-of-parentheses](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0886-score-of-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1388,6 +1389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0781-basic-calculator-iv](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0781-basic-calculator-iv) |
 | [0874-backspace-string-compare](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0886-score-of-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
