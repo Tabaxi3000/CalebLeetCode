@@ -919,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0917-boats-to-save-people) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0921-spiral-matrix-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0921-spiral-matrix-iii) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Greedy
 |  |
 | ------- |
@@ -1256,6 +1257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-nth-magical-number](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0910-nth-magical-number) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 | [0913-random-flip-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0913-random-flip-matrix) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Trie
 |  |
 | ------- |
@@ -1579,6 +1581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0858-masking-personal-information](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0858-masking-personal-information) |
 | [0898-transpose-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0898-transpose-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0919-projection-area-of-3d-shapes) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -2138,6 +2141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0593-valid-square) |
 | [0829-subdomain-visit-count](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0829-subdomain-visit-count) |
 | [0888-mirror-reflection](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0888-mirror-reflection) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Interactive
 |  |
 | ------- |
