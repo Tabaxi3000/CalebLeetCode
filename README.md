@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0904-leaf-similar-trees](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0904-leaf-similar-trees) |
 | [0913-random-flip-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0913-random-flip-matrix) |
 ## String
 |  |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-find-and-replace-in-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0862-find-and-replace-in-string) |
 | [0864-image-overlap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0864-image-overlap) |
 | [0876-hand-of-straights](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0876-hand-of-straights) |
+| [0904-leaf-similar-trees](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0904-leaf-similar-trees) |
 ## Recursion
 |  |
 | ------- |
@@ -904,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-random-pick-with-blacklist](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0898-transpose-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0898-transpose-matrix) |
 | [0901-advantage-shuffle](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0901-advantage-shuffle) |
+| [0904-leaf-similar-trees](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0904-leaf-similar-trees) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
 ## Greedy
 |  |
