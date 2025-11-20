@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-advantage-shuffle](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0901-advantage-shuffle) |
 | [0908-middle-of-the-linked-list](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0941-sort-array-by-parity) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -938,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0940-fruit-into-baskets](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0940-fruit-into-baskets) |
+| [0941-sort-array-by-parity](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0941-sort-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
@@ -1073,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0917-boats-to-save-people) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0935-orderly-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0935-orderly-queue) |
+| [0941-sort-array-by-parity](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0941-sort-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
