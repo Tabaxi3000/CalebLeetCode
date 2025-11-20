@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0935-orderly-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0935-orderly-queue) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0939-valid-permutations-for-di-sequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0939-valid-permutations-for-di-sequence) |
+| [0942-super-palindromes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0942-super-palindromes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1284,6 +1285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0928-surface-area-of-3d-shapes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0928-surface-area-of-3d-shapes) |
 | [0935-orderly-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0935-orderly-queue) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0938-numbers-at-most-n-given-digit-set) |
+| [0942-super-palindromes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0942-super-palindromes) |
 ## Trie
 |  |
 | ------- |
@@ -2301,6 +2303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0818-similar-rgb-color](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0818-similar-rgb-color) |
 | [0834-ambiguous-coordinates](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0834-ambiguous-coordinates) |
 | [0856-consecutive-numbers-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0856-consecutive-numbers-sum) |
+| [0942-super-palindromes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0942-super-palindromes) |
 ## Number Theory
 |  |
 | ------- |
