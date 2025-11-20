@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0931-maximum-frequency-stack](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0931-maximum-frequency-stack) |
+| [0940-fruit-into-baskets](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0940-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0864-image-overlap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0864-image-overlap) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0940-fruit-into-baskets](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0940-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -935,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0932-monotonic-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0938-numbers-at-most-n-given-digit-set) |
+| [0940-fruit-into-baskets](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0940-fruit-into-baskets) |
 ## Greedy
 |  |
 | ------- |
