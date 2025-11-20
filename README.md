@@ -482,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [0961-long-pressed-name](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0979-di-string-match) |
+| [0985-bag-of-tokens](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0985-bag-of-tokens) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1000,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-delete-columns-to-make-sorted](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0983-validate-stack-sequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0983-validate-stack-sequences) |
+| [0985-bag-of-tokens](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0985-bag-of-tokens) |
 ## Greedy
 |  |
 | ------- |
@@ -1061,6 +1063,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-stamping-the-sequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0973-stamping-the-sequence) |
 | [0979-di-string-match](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [0985-bag-of-tokens](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0985-bag-of-tokens) |
 ## Sorting
 |  |
 | ------- |
@@ -1147,6 +1150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-reorder-data-in-log-files](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [0976-minimum-area-rectangle](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0976-minimum-area-rectangle) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [0985-bag-of-tokens](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0985-bag-of-tokens) |
 ## Binary Search
 |  |
 | ------- |
