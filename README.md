@@ -998,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-find-the-shortest-superstring](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0980-find-the-shortest-superstring) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [0983-validate-stack-sequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0983-validate-stack-sequences) |
 ## Greedy
 |  |
 | ------- |
@@ -1540,6 +1541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0973-stamping-the-sequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0973-stamping-the-sequence) |
+| [0983-validate-stack-sequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0983-validate-stack-sequences) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1743,6 +1745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0898-transpose-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0919-projection-area-of-3d-shapes) |
+| [0983-validate-stack-sequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0983-validate-stack-sequences) |
 ## Combinatorics
 |  |
 | ------- |
