@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-super-palindromes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0942-super-palindromes) |
 | [0952-word-subsets](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0953-reverse-only-letters) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1014,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-advantage-shuffle](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0901-advantage-shuffle) |
 | [0917-boats-to-save-people](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0917-boats-to-save-people) |
 | [0946-smallest-range-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0946-smallest-range-ii) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Sorting
 |  |
 | ------- |
@@ -1485,6 +1487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0886-score-of-parentheses) |
 | [0931-maximum-frequency-stack](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0937-online-stock-span) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
