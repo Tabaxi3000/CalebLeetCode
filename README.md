@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-reorder-data-in-log-files](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [0977-distinct-subsequences-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0977-distinct-subsequences-ii) |
 | [0979-di-string-match](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0979-di-string-match) |
+| [0980-find-the-shortest-superstring](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0980-find-the-shortest-superstring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0972-knight-dialer](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0972-knight-dialer) |
 | [0977-distinct-subsequences-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0977-distinct-subsequences-ii) |
+| [0980-find-the-shortest-superstring](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0980-find-the-shortest-superstring) |
 ## Recursion
 |  |
 | ------- |
@@ -992,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-minimum-area-rectangle](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0976-minimum-area-rectangle) |
 | [0978-valid-mountain-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0978-valid-mountain-array) |
 | [0979-di-string-match](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0979-di-string-match) |
+| [0980-find-the-shortest-superstring](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0980-find-the-shortest-superstring) |
 ## Greedy
 |  |
 | ------- |
@@ -1634,6 +1637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0876-hand-of-straights) |
 | [0899-binary-gap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0899-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0980-find-the-shortest-superstring](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0980-find-the-shortest-superstring) |
 ## Matrix
 |  |
 | ------- |
@@ -2572,6 +2576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0876-hand-of-straights](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0876-hand-of-straights) |
+| [0980-find-the-shortest-superstring](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0980-find-the-shortest-superstring) |
 ## Randomized
 |  |
 | ------- |
