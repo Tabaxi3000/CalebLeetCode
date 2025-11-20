@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-delete-columns-to-make-sorted](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [0986-largest-time-for-given-digits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0986-largest-time-for-given-digits) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0990-verifying-an-alien-dictionary) |
+| [0992-delete-columns-to-make-sorted-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0992-delete-columns-to-make-sorted-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1010,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0989-largest-component-size-by-common-factor) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0990-verifying-an-alien-dictionary) |
+| [0992-delete-columns-to-make-sorted-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0992-delete-columns-to-make-sorted-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -1072,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0985-bag-of-tokens) |
+| [0992-delete-columns-to-make-sorted-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0992-delete-columns-to-make-sorted-ii) |
 ## Sorting
 |  |
 | ------- |
