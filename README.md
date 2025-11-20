@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0952-word-subsets) |
 | [0959-3sum-with-multiplicity](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [0960-minimize-malware-spread](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0960-minimize-malware-spread) |
+| [0964-minimize-malware-spread-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0964-minimize-malware-spread-ii) |
 ## String
 |  |
 | ------- |
@@ -968,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [0960-minimize-malware-spread](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0960-minimize-malware-spread) |
 | [0963-three-equal-parts](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0963-three-equal-parts) |
+| [0964-minimize-malware-spread-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0964-minimize-malware-spread-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -1834,6 +1836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0960-minimize-malware-spread](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0960-minimize-malware-spread) |
+| [0964-minimize-malware-spread-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0964-minimize-malware-spread-ii) |
 ## Tree
 |  |
 | ------- |
@@ -2111,6 +2114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0945-snakes-and-ladders) |
 | [0955-complete-binary-tree-inserter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0955-complete-binary-tree-inserter) |
 | [0960-minimize-malware-spread](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0960-minimize-malware-spread) |
+| [0964-minimize-malware-spread-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0964-minimize-malware-spread-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -2130,6 +2134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-bricks-falling-when-hit](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0821-bricks-falling-when-hit) |
 | [0869-similar-string-groups](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0869-similar-string-groups) |
 | [0960-minimize-malware-spread](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0960-minimize-malware-spread) |
+| [0964-minimize-malware-spread-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0964-minimize-malware-spread-ii) |
 ## Graph
 |  |
 | ------- |
@@ -2157,6 +2162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0876-hand-of-straights) |
 | [0949-cat-and-mouse](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0949-cat-and-mouse) |
 | [0960-minimize-malware-spread](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0960-minimize-malware-spread) |
+| [0964-minimize-malware-spread-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0964-minimize-malware-spread-ii) |
 ## Design
 |  |
 | ------- |
