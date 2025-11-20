@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-stamping-the-sequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0973-stamping-the-sequence) |
 | [0974-reorder-data-in-log-files](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [0977-distinct-subsequences-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0977-distinct-subsequences-ii) |
+| [0979-di-string-match](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0979-di-string-match) |
 ## Sliding Window
 |  |
 | ------- |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0953-reverse-only-letters) |
 | [0959-3sum-with-multiplicity](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [0961-long-pressed-name](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0961-long-pressed-name) |
+| [0979-di-string-match](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0979-di-string-match) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -989,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-reorder-data-in-log-files](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [0976-minimum-area-rectangle](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0976-minimum-area-rectangle) |
 | [0978-valid-mountain-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0978-valid-mountain-array) |
+| [0979-di-string-match](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0979-di-string-match) |
 ## Greedy
 |  |
 | ------- |
@@ -1048,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-smallest-range-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0946-smallest-range-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0973-stamping-the-sequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0973-stamping-the-sequence) |
+| [0979-di-string-match](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0979-di-string-match) |
 ## Sorting
 |  |
 | ------- |
