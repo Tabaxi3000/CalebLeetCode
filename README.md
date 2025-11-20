@@ -941,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0940-fruit-into-baskets](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0941-sort-array-by-parity) |
+| [0944-smallest-range-i](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0944-smallest-range-i) |
 ## Greedy
 |  |
 | ------- |
@@ -1286,6 +1287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0935-orderly-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0935-orderly-queue) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0942-super-palindromes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0942-super-palindromes) |
+| [0944-smallest-range-i](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0944-smallest-range-i) |
 ## Trie
 |  |
 | ------- |
