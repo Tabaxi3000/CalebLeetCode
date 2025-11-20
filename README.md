@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0965-unique-email-addresses) |
 | [0966-binary-subarrays-with-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0976-minimum-area-rectangle](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0976-minimum-area-rectangle) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## String
 |  |
 | ------- |
@@ -1883,6 +1884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0964-minimize-malware-spread-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0964-minimize-malware-spread-ii) |
 | [0971-shortest-bridge](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0971-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0975-range-sum-of-bst) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Tree
 |  |
 | ------- |
@@ -2185,6 +2187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0869-similar-string-groups) |
 | [0960-minimize-malware-spread](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0964-minimize-malware-spread-ii) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Graph
 |  |
 | ------- |
@@ -2213,6 +2216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0949-cat-and-mouse](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0949-cat-and-mouse) |
 | [0960-minimize-malware-spread](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0964-minimize-malware-spread-ii) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Design
 |  |
 | ------- |
