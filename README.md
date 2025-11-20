@@ -591,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0939-valid-permutations-for-di-sequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0939-valid-permutations-for-di-sequence) |
 | [0949-cat-and-mouse](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0949-cat-and-mouse) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [0956-number-of-music-playlists](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0956-number-of-music-playlists) |
 ## Recursion
 |  |
 | ------- |
@@ -1310,6 +1311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-smallest-range-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0946-smallest-range-ii) |
 | [0949-cat-and-mouse](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0949-cat-and-mouse) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0956-number-of-music-playlists](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0956-number-of-music-playlists) |
 ## Trie
 |  |
 | ------- |
@@ -1689,6 +1691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0062-unique-paths) |
 | [0458-poor-pigs](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0458-poor-pigs) |
 | [0634-find-the-derangement-of-an-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0634-find-the-derangement-of-an-array) |
+| [0956-number-of-music-playlists](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0956-number-of-music-playlists) |
 ## Memoization
 |  |
 | ------- |
