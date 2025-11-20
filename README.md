@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [0960-minimize-malware-spread](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0964-minimize-malware-spread-ii) |
+| [0965-unique-email-addresses](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0965-unique-email-addresses) |
 ## String
 |  |
 | ------- |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0961-long-pressed-name](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0961-long-pressed-name) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
+| [0965-unique-email-addresses](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0965-unique-email-addresses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -970,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-minimize-malware-spread](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0960-minimize-malware-spread) |
 | [0963-three-equal-parts](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0963-three-equal-parts) |
 | [0964-minimize-malware-spread-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0964-minimize-malware-spread-ii) |
+| [0965-unique-email-addresses](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0965-unique-email-addresses) |
 ## Greedy
 |  |
 | ------- |
