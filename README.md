@@ -1906,6 +1906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0921-spiral-matrix-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0930-all-possible-full-binary-trees](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0930-all-possible-full-binary-trees) |
+| [0955-complete-binary-tree-inserter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0955-complete-binary-tree-inserter) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1987,6 +1988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0921-spiral-matrix-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0930-all-possible-full-binary-trees](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0930-all-possible-full-binary-trees) |
+| [0955-complete-binary-tree-inserter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0955-complete-binary-tree-inserter) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -2088,6 +2090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0945-snakes-and-ladders) |
+| [0955-complete-binary-tree-inserter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0955-complete-binary-tree-inserter) |
 ## Union Find
 |  |
 | ------- |
@@ -2188,6 +2191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-exam-room](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0885-exam-room) |
 | [0931-maximum-frequency-stack](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0937-online-stock-span) |
+| [0955-complete-binary-tree-inserter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0955-complete-binary-tree-inserter) |
 ## Doubly-Linked List
 |  |
 | ------- |
