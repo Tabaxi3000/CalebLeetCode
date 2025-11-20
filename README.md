@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-groups-of-special-equivalent-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0935-orderly-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0935-orderly-queue) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0938-numbers-at-most-n-given-digit-set) |
+| [0939-valid-permutations-for-di-sequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0939-valid-permutations-for-di-sequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-all-possible-full-binary-trees](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0938-numbers-at-most-n-given-digit-set) |
+| [0939-valid-permutations-for-di-sequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0939-valid-permutations-for-di-sequence) |
 ## Recursion
 |  |
 | ------- |
@@ -2332,6 +2334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0878-shifting-letters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0912-random-pick-with-weight](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0912-random-pick-with-weight) |
+| [0939-valid-permutations-for-di-sequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0939-valid-permutations-for-di-sequence) |
 ## Quickselect
 |  |
 | ------- |
