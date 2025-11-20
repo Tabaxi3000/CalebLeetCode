@@ -979,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0968-beautiful-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0968-beautiful-array) |
+| [0971-shortest-bridge](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0971-shortest-bridge) |
 ## Greedy
 |  |
 | ------- |
@@ -1671,6 +1672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0928-surface-area-of-3d-shapes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0928-surface-area-of-3d-shapes) |
 | [0945-snakes-and-ladders](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [0971-shortest-bridge](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0971-shortest-bridge) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1849,6 +1851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0960-minimize-malware-spread](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0964-minimize-malware-spread-ii) |
+| [0971-shortest-bridge](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0971-shortest-bridge) |
 ## Tree
 |  |
 | ------- |
@@ -2127,6 +2130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-complete-binary-tree-inserter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0955-complete-binary-tree-inserter) |
 | [0960-minimize-malware-spread](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0964-minimize-malware-spread-ii) |
+| [0971-shortest-bridge](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0971-shortest-bridge) |
 ## Union Find
 |  |
 | ------- |
