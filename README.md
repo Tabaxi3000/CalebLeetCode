@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0961-long-pressed-name](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0961-long-pressed-name) |
 ## Sliding Window
 |  |
 | ------- |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0953-reverse-only-letters) |
 | [0959-3sum-with-multiplicity](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0959-3sum-with-multiplicity) |
+| [0961-long-pressed-name](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0961-long-pressed-name) |
 ## Dynamic Programming
 |  |
 | ------- |
