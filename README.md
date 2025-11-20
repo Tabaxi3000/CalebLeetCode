@@ -584,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0939-valid-permutations-for-di-sequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0939-valid-permutations-for-di-sequence) |
+| [0949-cat-and-mouse](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0949-cat-and-mouse) |
 ## Recursion
 |  |
 | ------- |
@@ -1296,6 +1297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-super-palindromes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0942-super-palindromes) |
 | [0944-smallest-range-i](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0944-smallest-range-i) |
 | [0946-smallest-range-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0946-smallest-range-ii) |
+| [0949-cat-and-mouse](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0949-cat-and-mouse) |
 ## Trie
 |  |
 | ------- |
@@ -1690,6 +1692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0787-sliding-puzzle](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0787-sliding-puzzle) |
 | [0930-all-possible-full-binary-trees](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0930-all-possible-full-binary-trees) |
+| [0949-cat-and-mouse](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0949-cat-and-mouse) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -2116,6 +2119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-find-and-replace-in-string](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0862-find-and-replace-in-string) |
 | [0871-keys-and-rooms](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0871-keys-and-rooms) |
 | [0876-hand-of-straights](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0876-hand-of-straights) |
+| [0949-cat-and-mouse](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0949-cat-and-mouse) |
 ## Design
 |  |
 | ------- |
@@ -2334,6 +2338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0631-design-excel-sum-formula](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0631-design-excel-sum-formula) |
+| [0949-cat-and-mouse](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0949-cat-and-mouse) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -2460,6 +2465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0294-flip-game-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0294-flip-game-ii) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0909-stone-game](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0909-stone-game) |
+| [0949-cat-and-mouse](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0949-cat-and-mouse) |
 ## Eulerian Circuit
 |  |
 | ------- |
