@@ -948,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-smallest-range-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0946-smallest-range-ii) |
 | [0948-sort-an-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0948-sort-an-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0951-partition-array-into-disjoint-intervals](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0951-partition-array-into-disjoint-intervals) |
 ## Greedy
 |  |
 | ------- |
