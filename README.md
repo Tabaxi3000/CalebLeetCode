@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-minimum-area-rectangle](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0976-minimum-area-rectangle) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0989-largest-component-size-by-common-factor) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 ## String
 |  |
 | ------- |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-find-the-shortest-superstring](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0980-find-the-shortest-superstring) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [0986-largest-time-for-given-digits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0986-largest-time-for-given-digits) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1007,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-largest-time-for-given-digits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0986-largest-time-for-given-digits) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0989-largest-component-size-by-common-factor) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 ## Greedy
 |  |
 | ------- |
