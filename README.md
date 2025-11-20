@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0989-largest-component-size-by-common-factor) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0990-verifying-an-alien-dictionary) |
+| [0994-prison-cells-after-n-days](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0994-prison-cells-after-n-days) |
 ## String
 |  |
 | ------- |
@@ -1014,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-verifying-an-alien-dictionary](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [0993-tallest-billboard](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0993-tallest-billboard) |
+| [0994-prison-cells-after-n-days](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0994-prison-cells-after-n-days) |
 ## Greedy
 |  |
 | ------- |
@@ -1386,6 +1388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-beautiful-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0968-beautiful-array) |
 | [0976-minimum-area-rectangle](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0976-minimum-area-rectangle) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0989-largest-component-size-by-common-factor) |
+| [0994-prison-cells-after-n-days](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0994-prison-cells-after-n-days) |
 ## Trie
 |  |
 | ------- |
@@ -1666,6 +1669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0899-binary-gap](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0899-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0980-find-the-shortest-superstring](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0980-find-the-shortest-superstring) |
+| [0994-prison-cells-after-n-days](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0994-prison-cells-after-n-days) |
 ## Matrix
 |  |
 | ------- |
