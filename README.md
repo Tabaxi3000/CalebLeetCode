@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0979-di-string-match) |
 | [0980-find-the-shortest-superstring](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0980-find-the-shortest-superstring) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0981-delete-columns-to-make-sorted) |
+| [0986-largest-time-for-given-digits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0986-largest-time-for-given-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1002,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0983-validate-stack-sequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0983-validate-stack-sequences) |
 | [0985-bag-of-tokens](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0985-bag-of-tokens) |
+| [0986-largest-time-for-given-digits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0986-largest-time-for-given-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -1445,6 +1447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-ambiguous-coordinates](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0834-ambiguous-coordinates) |
 | [0865-robot-room-cleaner](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0865-robot-room-cleaner) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0872-split-array-into-fibonacci-sequence) |
+| [0986-largest-time-for-given-digits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0986-largest-time-for-given-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -2432,6 +2435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-ambiguous-coordinates](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0834-ambiguous-coordinates) |
 | [0856-consecutive-numbers-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0856-consecutive-numbers-sum) |
 | [0942-super-palindromes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0942-super-palindromes) |
+| [0986-largest-time-for-given-digits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0986-largest-time-for-given-digits) |
 ## Number Theory
 |  |
 | ------- |
