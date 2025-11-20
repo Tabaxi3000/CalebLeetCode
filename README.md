@@ -1895,6 +1895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-shortest-bridge](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0971-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0975-range-sum-of-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 ## Tree
 |  |
 | ------- |
@@ -1988,6 +1989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-all-possible-full-binary-trees](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [0955-complete-binary-tree-inserter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0955-complete-binary-tree-inserter) |
 | [0975-range-sum-of-bst](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0975-range-sum-of-bst) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -2071,6 +2073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-all-possible-full-binary-trees](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [0955-complete-binary-tree-inserter](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0955-complete-binary-tree-inserter) |
 | [0975-range-sum-of-bst](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0975-range-sum-of-bst) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
