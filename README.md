@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0965-unique-email-addresses) |
 | [0973-stamping-the-sequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0973-stamping-the-sequence) |
 | [0974-reorder-data-in-log-files](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0974-reorder-data-in-log-files) |
+| [0977-distinct-subsequences-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0977-distinct-subsequences-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-flip-string-to-monotone-increasing](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0967-minimum-falling-path-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0972-knight-dialer](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0972-knight-dialer) |
+| [0977-distinct-subsequences-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0977-distinct-subsequences-ii) |
 ## Recursion
 |  |
 | ------- |
