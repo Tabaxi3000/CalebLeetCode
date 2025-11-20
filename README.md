@@ -978,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0965-unique-email-addresses) |
 | [0966-binary-subarrays-with-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [0968-beautiful-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0968-beautiful-array) |
 ## Greedy
 |  |
 | ------- |
@@ -1209,6 +1210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [0968-beautiful-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0968-beautiful-array) |
 ## Math
 |  |
 | ------- |
@@ -1336,6 +1338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0956-number-of-music-playlists](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0956-number-of-music-playlists) |
 | [0963-three-equal-parts](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0963-three-equal-parts) |
+| [0968-beautiful-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0968-beautiful-array) |
 ## Trie
 |  |
 | ------- |
