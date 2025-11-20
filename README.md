@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-flip-string-to-monotone-increasing](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0965-unique-email-addresses](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0965-unique-email-addresses) |
 | [0973-stamping-the-sequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0973-stamping-the-sequence) |
+| [0974-reorder-data-in-log-files](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0974-reorder-data-in-log-files) |
 ## Sliding Window
 |  |
 | ------- |
@@ -982,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0968-beautiful-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0968-beautiful-array) |
 | [0971-shortest-bridge](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0971-shortest-bridge) |
+| [0974-reorder-data-in-log-files](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0974-reorder-data-in-log-files) |
 ## Greedy
 |  |
 | ------- |
@@ -1124,6 +1126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-smallest-range-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0946-smallest-range-ii) |
 | [0948-sort-an-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0948-sort-an-array) |
 | [0959-3sum-with-multiplicity](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0959-3sum-with-multiplicity) |
+| [0974-reorder-data-in-log-files](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0974-reorder-data-in-log-files) |
 ## Binary Search
 |  |
 | ------- |
