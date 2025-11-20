@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0976-minimum-area-rectangle](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0976-minimum-area-rectangle) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0989-largest-component-size-by-common-factor](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0989-largest-component-size-by-common-factor) |
 ## String
 |  |
 | ------- |
@@ -1005,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0985-bag-of-tokens) |
 | [0986-largest-time-for-given-digits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0986-largest-time-for-given-digits) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [0989-largest-component-size-by-common-factor](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0989-largest-component-size-by-common-factor) |
 ## Greedy
 |  |
 | ------- |
@@ -1375,6 +1377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0963-three-equal-parts](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0963-three-equal-parts) |
 | [0968-beautiful-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0968-beautiful-array) |
 | [0976-minimum-area-rectangle](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0976-minimum-area-rectangle) |
+| [0989-largest-component-size-by-common-factor](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0989-largest-component-size-by-common-factor) |
 ## Trie
 |  |
 | ------- |
@@ -2201,6 +2204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-minimize-malware-spread](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0964-minimize-malware-spread-ii) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0989-largest-component-size-by-common-factor](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0989-largest-component-size-by-common-factor) |
 ## Graph
 |  |
 | ------- |
@@ -2448,6 +2452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0204-count-primes) |
 | [0888-mirror-reflection](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0888-mirror-reflection) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0989-largest-component-size-by-common-factor](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0989-largest-component-size-by-common-factor) |
 ## Topological Sort
 |  |
 | ------- |
