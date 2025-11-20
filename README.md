@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-distinct-subsequences-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0977-distinct-subsequences-ii) |
 | [0979-di-string-match](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0979-di-string-match) |
 | [0980-find-the-shortest-superstring](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0980-find-the-shortest-superstring) |
+| [0981-delete-columns-to-make-sorted](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 ## Sliding Window
 |  |
 | ------- |
@@ -995,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0978-valid-mountain-array) |
 | [0979-di-string-match](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0979-di-string-match) |
 | [0980-find-the-shortest-superstring](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0980-find-the-shortest-superstring) |
+| [0981-delete-columns-to-make-sorted](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 ## Greedy
 |  |
 | ------- |
