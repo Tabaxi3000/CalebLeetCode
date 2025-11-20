@@ -943,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0944-smallest-range-i) |
 | [0945-snakes-and-ladders](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0945-snakes-and-ladders) |
+| [0946-smallest-range-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0946-smallest-range-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -999,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0890-lemonade-change) |
 | [0901-advantage-shuffle](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0901-advantage-shuffle) |
 | [0917-boats-to-save-people](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0917-boats-to-save-people) |
+| [0946-smallest-range-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0946-smallest-range-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -1079,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-groups-of-special-equivalent-strings](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0935-orderly-queue](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0935-orderly-queue) |
 | [0941-sort-array-by-parity](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0941-sort-array-by-parity) |
+| [0946-smallest-range-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0946-smallest-range-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -1289,6 +1292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0942-super-palindromes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0942-super-palindromes) |
 | [0944-smallest-range-i](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0944-smallest-range-i) |
+| [0946-smallest-range-ii](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0946-smallest-range-ii) |
 ## Trie
 |  |
 | ------- |
