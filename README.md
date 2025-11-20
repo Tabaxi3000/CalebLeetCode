@@ -967,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0959-3sum-with-multiplicity](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [0960-minimize-malware-spread](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0960-minimize-malware-spread) |
+| [0963-three-equal-parts](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0963-three-equal-parts) |
 ## Greedy
 |  |
 | ------- |
@@ -1324,6 +1325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0949-cat-and-mouse](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0949-cat-and-mouse) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0956-number-of-music-playlists](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0956-number-of-music-playlists) |
+| [0963-three-equal-parts](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0963-three-equal-parts) |
 ## Trie
 |  |
 | ------- |
