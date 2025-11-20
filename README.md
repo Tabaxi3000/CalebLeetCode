@@ -606,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0956-number-of-music-playlists](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0956-number-of-music-playlists) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0967-minimum-falling-path-sum](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [0972-knight-dialer](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0972-knight-dialer) |
 ## Recursion
 |  |
 | ------- |
