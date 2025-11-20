@@ -1004,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0983-validate-stack-sequences) |
 | [0985-bag-of-tokens](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0985-bag-of-tokens) |
 | [0986-largest-time-for-given-digits](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0986-largest-time-for-given-digits) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Greedy
 |  |
 | ------- |
@@ -1153,6 +1154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-minimum-area-rectangle](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0976-minimum-area-rectangle) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0985-bag-of-tokens) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Binary Search
 |  |
 | ------- |
@@ -1754,6 +1756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0898-transpose-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0983-validate-stack-sequences](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0983-validate-stack-sequences) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Combinatorics
 |  |
 | ------- |
@@ -2558,6 +2561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0969-number-of-recent-calls) |
 | [0973-stamping-the-sequence](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0973-stamping-the-sequence) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Tabaxi3000/CalebLeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Monotonic Queue
 |  |
 | ------- |
